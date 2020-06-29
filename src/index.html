@@ -16,9 +16,9 @@
 
     <!-- placeholder for the video -->
     <div class="ui-full-width">
-      <video width="100%" height="55%" controls
+      <video width="100%" height="55%" controls="controls" preload="none"
       alt="An introductory video featuring a number of speakers with different disabilities.">
-        <source src="assets/video/ADA_Voices_Video.mp4" type="video/mp4">
+        <source src="assets/video/ADA_Voices_Video.mp4" type="video/mp4" autostart="false">
         Your browser does not support this video.
       </video>
     </div>
@@ -30,12 +30,14 @@
       <!-- begin intro text -->
       <center id="intro" class="eight columns offset-by-two">
         <h1>Introduction Text</h1>
-        <h2 id="intro-desc">
+        <h3 id="intro-desc">
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-        </h2>
+        </h3>
       </center>
 
-      <div class="spacer"></div>
+      <div class="spacer" style="clear:both;"></div>
+
+      <h2 style="margin-bottom: 2rem;">The Latest</h2>
 
       <!-- BEGIN STORIES -->
       <!-- row 1 -->
@@ -43,67 +45,36 @@
         <article class="one-third column">
           <a href="/digital-age.html">
               <img src="https://picsum.photos/550/706" />
-            <div class="index-headline">When will the Americans with Disabilities Act evolve to the digital age?</div>
+            <div class="index-headline">
+              When will the Americans with Disabilities Act evolve to the digital age?
+            </div>
             <div class="index-headline-border"></div>
           </a>
             <div class="index-byline">Catherine Getchell</div>
         </article>
         <article class="two-thirds column">
-          <a href="introduction.html">
+          <a href="/introduction.html">
             <img src="https://picsum.photos/1200/720" />
-            <div class="index-headline">Introduction</div>
+            <div class="index-headline">Introduction Video</div>
             <div class="index-headline-border" style="width:25%"></div>
           </a>
+            <div class="index-byline">Ryan Loew, Unabridged Press, various</div>
         </article>
       </div>
 
       <div class="spacer"></div>
-
-    </main>
-
-    <!-- first blue quote box -->
-    <aside class="ui-full-width">
-      <div class="index-quote">
-          <h2 class="index-quote-text">
-            “This is a quote from one of our pieces, or something that
-            provides additional context for the impact of the ADA.”
-          </h2>
-      </div>
-    </aside>
-    <div class="spacer"></div>
-
-    <main class="container">
 
       <!-- row 2 -->
       <div class="row">
-        <article class="two-thirds column">
-          <a href="/">
-            <img src="https://picsum.photos/1200/720" />
-            <div class="index-headline">Video Title</div>
-            <div class="index-headline-border" style="width:25%"></div>
-          </a>
-        </article>
-        <div class="one-third column">
-          <aside class="index-quote" style="margin: 0">
-            <h2 class="index-quote-text">
-              "There's another shout out or pull quote that goes here.
-              Maybe we also use this for social media."
-            </h2>
-          </aside>
-        </div>
-      </div>
-
-      <div class="spacer"></div>
-
-      <!-- row 4 -->
-      <div class="row">
         <article class="one-third column">
-          <a href="/">
+          <a href="/voting-access.html">
             <img src="https://picsum.photos/550/400" />
-            <div class="index-headline">Story Headline</div>
+            <div class="index-headline">
+              Voters with disabilities are accustomed to impediments. Will addressing COVID-19 bring more?
+            </div>
             <div class="index-headline-border"></div>
           </a>
-            <div class="index-byline">Journa List</div>
+            <div class="index-byline">Matt Petras</div>
         </article>
         <article class="one-third column">
           <a href="/">
@@ -122,6 +93,40 @@
           </a>
             <div class="index-byline">Journa List</div>
         </article>
+      </div>
+
+    </main>
+
+    <!-- first blue quote box -->
+    <aside class="ui-full-width">
+      <div class="index-quote">
+          <h2 class="index-quote-text">
+            “This is a quote from one of our pieces, or something that
+            provides additional context for the impact of the ADA.”
+          </h2>
+      </div>
+    </aside>
+    <div class="spacer"></div>
+
+    <main class="container">
+
+      <!-- row 3 -->
+      <div class="row">
+        <article class="two-thirds column">
+          <a href="/">
+            <img src="https://picsum.photos/1200/720" />
+            <div class="index-headline">Video Title</div>
+            <div class="index-headline-border" style="width:25%"></div>
+          </a>
+        </article>
+        <div class="one-third column">
+          <aside class="index-quote" style="margin: 0">
+            <h2 class="index-quote-text">
+              "There's another shout out or pull quote that goes here.
+              Maybe we also use this for social media."
+            </h2>
+          </aside>
+        </div>
       </div>
 
       <div class="spacer"></div>

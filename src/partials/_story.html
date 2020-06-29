@@ -9,21 +9,21 @@
 
   <!-- Subhed -->
   <% }else if(section.type == "subhed"){ %>
-    <h2 class="subhed offset-by-two columns" id="subhead">
+    <h3 class="subhed offset-by-two columns" id="subhead">
       <%= section.value.text %>
-    </h2>
+    </h3>
 
   <!-- Pullquote -->
   <% }else if(section.type == "pullquote"){ %>
-    <h2 class="story-pullquote">
+    <h3 class="story-pullquote">
       <%= section.value.text %>
-    </h2>
+    </h3>
 
   <!-- Interjection -->
   <% }else if(section.type == "interjection"){ %>
-    <h2 class="story-interjection">
+    <h3 class="story-interjection">
       <%= section.value.text %>
-    </h2>
+    </h3>
 
   <!-- Definition -->
   <% }else if(section.type == "definition"){ %>
