@@ -16,6 +16,9 @@
 <!-- Import Font Awesome -->
 <script src="https://kit.fontawesome.com/c1a5a513f9.js" crossorigin="anonymous"></script>
 
+<!-- imports main stylesheet -->
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <!-- Safari, you're the worst -->
 <meta name='format-detection' content='telephone=no'>
 
@@ -44,3 +47,10 @@
 %>
 
 <%= t.include("partials/_analytics.html") %>
+
+<!-- STOPS TRANSITIONS FROM FIRING ON PAGE LOAD -->
+<script>
+  $(document).ready(function() {
+    $("body").removeClass("preload");
+  });
+</script>
