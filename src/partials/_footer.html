@@ -1,14 +1,17 @@
 <footer role="contentinfo">
-  <div class="footer" align="center">
+  <section class="footer" align="center">
     <%= typeof content != "undefined" ? content : "" %>
-    <p style="margin-bottom: 1rem;">Produced by PublicSource and Unabridged Press.</p>
     <a href="https://publicsource.org/" target="_blank">
-      <img src="https://ps-apps-assets.s3.amazonaws.com/power-of-place/logo.svg"
+      <img src="../assets/img/ps-logo.svg" id="ps-logo"
       alt="Public Source logo which links to PublicSource website" />
     </a>
-    <a href="/">
-      <img src="../assets/img/UnPressLogoWhite.png"
+    <a href="https://www.unabridgedpress.com/" target="_blank">
+      <img src="../assets/img/UnPressLogoWhite.png" id="up-logo"
       alt="Unabridged Press logo whcih links to Unabridged Press website"/>
     </a>
-  </div>
+    <p style="margin-top: 1rem;">
+      Produced by PublicSource and Unabridged Press.<br />
+      This project has been made possible with the support of the FISA Foundation.
+    </p>
+  </section>
 </footer>
