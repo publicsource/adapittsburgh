@@ -3,7 +3,7 @@
 
   <!-- Story text -->
   <% if(section.type == "text"){ %>
-    <div class="story-text">
+    <div class="story-text"">
       <%= t.renderMarkdown(story.sections[i].value) %>
     </div>
 
@@ -27,15 +27,36 @@
 
   <!-- Definition -->
   <% }else if(section.type == "definition"){ %>
-      <div class="story-definition">
-        <%= section.value.text %>
-      </div>
+    <div class="story-definition">
+      <%= section.value.text %>
+    </div>
 
   <!-- Inline image -->
   <% }else if(section.type == "inline-img"){ %>
     <img class="inline-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
     <div class="story-caption">
-      <p align="center"><%= section.value.caption %></p>
+      <p><%= section.value.caption %></p>
+    </div>
+
+    <!-- Transcript -->
+    <% }else if(section.type == "transcript"){ %>
+      <div class="transcript">
+        <div class="speaker"><%= section.value.speaker %>:</div>
+        <div class="transcript-text"><%= section.value.text %></div>
+      </div>
+
+  <!-- Double image -->
+  <% }else if(section.type == "inline-double"){ %>
+    <section>
+      <img class="inline-img" alt="<%= section.value.alt1 %>" src="<%= section.value.img1 %>" style="max-width: 49%;float:left" />
+      <div class="story-caption-db">
+        <p><%= section.value.caption1 %></p>
+      </div>
+    </section>
+
+    <img class="inline-img" alt="<%= section.value.alt2 %>" src="<%= section.value.img2 %>" style="max-width: 49%;float:left" />
+    <div class="story-caption-db">
+      <p><%= section.value.caption2 %></p>
     </div>
 
   <% } %>

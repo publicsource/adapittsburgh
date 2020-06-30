@@ -31,7 +31,9 @@
   "docs": {
     "voting": "1eRxjTWPoMQYwnIbnoUvFEdzB4JvTzNoSyiLznHdyf0E",
     "digitalAge": "1Xk-YkRgssLd0hPpjoodDQL0B942EFrHIisaA3jba8R8",
-    "inventions": "10Tl_j2fC3xyEQr3YhVEDSthUqJ1IPzQWaq3FTgrtVlg"
+    "inventions": "10Tl_j2fC3xyEQr3YhVEDSthUqJ1IPzQWaq3FTgrtVlg",
+    "introVideo": "1uNz3muLZSr_CQO7y1VkZlGXVc2KPqKbs9TaaB2cU63g",
+    "compliancePodcast": "1gBrAboVcFz44snhwfBfBV8oYAz2Cjgep2EK9hczv-yE"
   },
   "embedded": true,
   "production": false
