@@ -114,9 +114,14 @@
 }
 
 .transcript .speaker {
-  font-weight: bold;
   float: left;
+  font-size: 1.75rem;
   width: 25%;
+  .futura();
+  text-transform: uppercase;
+  @media @mobile {
+    width: 100%;
+  }
 }
 
 .transcript .transcript-text {
@@ -124,4 +129,28 @@
   margin-left: 0.5rem;
   width: 74%;
   margin-bottom: 3rem;
+  @media @mobile {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+#podcast {
+  background-color: transparent;
+}
+
+#podcast-info {
+  margin-top: 5rem;
+}
+
+#podcast-info img {
+  width: 100%;
+}
+
+#podcast-desc {
+  margin-left: 2rem;
+  @media @mobile {
+    margin-left: 2.5%;
+    width: 95%;
+  }
 }

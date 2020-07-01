@@ -1,6 +1,5 @@
 #pre-footer {
-  background-color: transparent;
-  border-left: 0.75rem solid @highlight-yellow;
+  border-left: 1rem solid @highlight-blue;
   width: 100%;
   box-sizing: border-box;
   padding: 2rem 1rem;
@@ -19,8 +18,13 @@
   margin: auto;
 }
 
+#pre-footer input {
+  font-size: 1.5rem;
+}
+
 #pre-footer form label {
   .mallory();
+  font-size: 1.75rem;
 }
 
 #pre-footer form textarea {
@@ -30,5 +34,9 @@
 
 #pre-footer form button {
   text-align: left;
-  background-color: #fff;
+  .mallory();
+  font-size: 1.25rem;
+  background: @highlight-blue;
+  border: 0;
+  color: #000;
 }
