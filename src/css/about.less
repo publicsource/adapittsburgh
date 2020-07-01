@@ -7,5 +7,21 @@ main#about-page h1 {
 }
 
 .about-text {
-  margin: 2rem 0;
+  padding: 2rem 0;
+  box-sizing: border-box;
+  @media @mobile {
+    box-sizing: border-box;
+    padding: 2rem 1rem;
+  }
+}
+
+.about-text ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  width: 95%;
+  margin-left: 2.5%;
+  @media @mobile {
+    width: 90%;
+    margin-left: 5%;
+  }
 }
