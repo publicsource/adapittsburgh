@@ -31,9 +31,16 @@
       <center id="intro" class="eight columns offset-by-two">
         <h1>Introduction Text</h1>
         <h3 id="intro-desc">
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut<br /><br />
+          <!-- begin userway text -->
+          <img src="assets/img/userway.png" alt="userway icon"/ style="float:left;width:80px;">
+          <span style="float:left; width:89%;text-align:left;padding-left:3rem;font-size:3rem;">Click this icon in the bottom-right corner to access our accessibility menu.
+          With it, you can customize your text, increase page contrast, hear page content, and other accessibility features!
+          </span>
         </h3>
       </center>
+
+      <div style="clear:both"></div>
 
       <div class="spacer" style="clear:both;"></div>
 
@@ -126,6 +133,26 @@
 
     <script src="app.js" async></script>
     <%= t.include("partials/_analytics.html") %>
-    <script data-account="ZEQU4bRA7Q" src="https://cdn.userway.org/widget.js"></script>
+    <script type="text/javascript">
+      var _userway_config = {
+        /* uncomment the following line to override default position*/
+         position: '3',
+        /* uncomment the following line to override default size (values: small, large)*/
+        /* size: 'large', */
+        /* uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)*/
+        /* language: 'en-US', */
+        /* uncomment the following line to override color set via widget (e.g., #053f67)*/
+        /* color: '#2d68ff', */
+        /* uncomment the following line to override type set via widget (1=person, 2=chair, 3=eye, 4=text)*/
+        type: '1',
+        /* uncomment the following lines to override the accessibility statement*/
+        /* statement_text: "Our Accessibility Statement", */
+        /* statement_url: "adapittsburgh.com/accessibility", */
+        /* uncomment the following line to override support on mobile devices*/
+        /* mobile: true, */
+        account: 'ekf7rEr3TJ'
+      };
+    </script>
+    <script type="text/javascript" src="https://cdn.userway.org/widget.js" style="margin: 1rem;"></script>
   </body>
 </html>
