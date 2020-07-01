@@ -98,7 +98,7 @@
 
       <!-- row 3 -->
       <div class="row">
-        <article class="two-thirds column">
+        <article class="one-third column">
           <a href="/introduction.html">
             <img src="https://picsum.photos/1800/1200" />
             <div class="index-headline">
@@ -108,12 +108,9 @@
           </a>
             <div class="index-byline">Ryan Loew, Unabridged Press, various</div>
         </article>
-        <div class="one-third column">
-          <aside class="index-quote" style="margin: 0">
-            <h3 class="index-quote-text">
-              "There's another shout out or pull quote that goes here.
-              Maybe we also use this for social media."
-            </h3>
+        <div class="two-thirds column">
+          <aside class="pre-footer" style="margin: 0">
+            <%= t.include("partials/_preFooter.html") %>
           </aside>
         </div>
       </div>
@@ -122,9 +119,6 @@
     </main>
     <!-- END STORIES -->
     <!-- END LANDING PAGE CONTENT -->
-
-    <!-- PRE-FOOTER CONTACT FORM
-    <%= t.include("partials/_preFooter.html") %>-->
 
     <!-- Footer -->
     <%= t.include("partials/_footer.html") %>
