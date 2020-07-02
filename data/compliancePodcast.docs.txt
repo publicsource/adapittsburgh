@@ -66,6 +66,74 @@ text: <i>“</i>In my bedroom, I usually build with Legos. I like to build thing
 
 {.transcript}
 speaker: Jourdan Hicks
+text: An advocate for the homeless shared his joy in helping others.  
+	{}
+
+{.transcript}
+speaker: CLIP (Lorenzo Ruilli)
+text: “I love these little boxes. Take what you need. Give what you can. So that is a clear sign to help me fill it up. So that's what we’re gonna do. We’re about to fill it up real quick.”
+{}
+
+{.transcript}
+speaker: Jourdan Hicks
+text: And a punk rocker who had recently recovered from COVID-19.  
+	{}
+
+{.transcript}
+speaker: CLIP (Alex Peightal)
+text: “In a weird way, I think maybe the world needed a little bit of pause. Maybe for a second it was nice not to, you know, feel like you're killing yourself, getting off to work, whatever, 12 hours and two jobs, three jobs, that kind of thing. So.”
+{}
+
+{.transcript}
+speaker: Jourdan Hicks
+text: Taken together, the voices of these Pittsburghers provides an oral history - a kind of time capsule of what’s been happening in our city during the pandemic. 
+
+But then came the reminder of another pandemic  - one that has been going on for a lot longer…
+{}
+
+{.transcript}
+speaker: CLIP (Al Sharpton from George Floyd’s eulogy)
+text: “George Floyd should not be among the deceased. He did not die of common health conditions. He died of a common American criminal justice malfunction.”
+{}
+
+{.transcript}
+speaker: Jourdan Hicks
+text: And then people began to wake up. 
+{}
+
+{.transcript}
+speaker: News clip
+text: “These demonstrations all across the country against police violence and systemic racism show no sign of abating a week after George Floyd died in police custody in Minneapolis.”
+{}
+
+{.transcript}
+speaker: Jourdan Hicks
+text: And everyone began to pay attention to the other public health crisis: racism and police brutality against Black people in America. We focused this podcast’s attention there, too. 
+{}
+
+{.transcript}
+text: CLIP (MEKKA LLOYD)
+text: “America has a lot of blood on its hands.  They know that if all of these marginalized groups mixed with white allies, mixed with other demographics were to come together, we'd be unstoppable and things would change for sure.“
+{}
+
+{.transcript}
+speaker: CLIP (Kim Neeley)
+text: “I really just want people to understand the fear we deal with every single day. Every time my kid walks out this door, every time my husband walks out this door, every time I walk out this door. You never know.“
+{}
+
+{.transcript}
+speaker: CLIP (Jordan Neeley)
+text: “I am going to tell you about my first protest. Why did we go? Because George Floyd got assassinated and ended up dying because of the racist police. And the store person thought his 20 dollar bill was fake. What was it like? It was good because I got to yell Black Lives Matter and I got to take a very, very long walk.”
+	{}
+
+
+{.transcript}
+speaker: Chanting
+text: No justice, no peace.
+{}
+
+{.transcript}
+speaker: Jourdan Hicks
 text: Now we're pressing pause on the podcast to think about and work on season 2. What voices haven’t we heard? This season, we spoke to approximately 30 people. But Allegheny County has a population of more than 1.2 million people.  I - we - need to hear from you. We need to hear your stories. We’d love to hear what you think. There’s a survey on our website. It takes under 2 minutes and you’ll be done. The questions we ask, we need your answers to make this podcast a better podcast for you. 
 We'd like to thank you all for your support. Thank you for sharing the links. Thank you for commenting. Thank you for your encouragement. Thank you for your tips. Thank you for your stories. Just thank you for all of the support. We appreciate it so much. 
 If you’d like, you can become a member of PublicSource for as little as $5 dollars a month. 
