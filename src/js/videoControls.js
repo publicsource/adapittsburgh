@@ -17,8 +17,8 @@ var videoPlayButton,
         formatVideoPlayButton: function() {
             videoWrapper.insertAdjacentHTML('beforeend', '\
                 <svg class="video-overlay-play-button" viewBox="0 0 200 200" alt="Play video">\
-                    <circle cx="100" cy="100" r="90" fill="rgba(255,255,255,0.8)" stroke-width="0" stroke="#fff"/>\
-                    <polygon points="70, 55 70, 145 145, 100" fill="rgba(0,0,0,0.8)"/>\
+                    <circle cx="100" cy="100" r="90" fill="rgba(255,255,255,1)" stroke-width="0" stroke="#fff"/>\
+                    <polygon points="70, 55 70, 145 145, 100" fill="rgba(0,0,0,1)"/>\
                 </svg>\
             ')
         },
