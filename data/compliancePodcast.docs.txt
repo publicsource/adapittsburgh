@@ -112,7 +112,7 @@ text: And everyone began to pay attention to the other public health crisis: rac
 {}
 
 {.transcript}
-text: CLIP (MEKKA LLOYD)
+speaker: CLIP (MEKKA LLOYD)
 text: “America has a lot of blood on its hands.  They know that if all of these marginalized groups mixed with white allies, mixed with other demographics were to come together, we'd be unstoppable and things would change for sure.“
 {}
 
