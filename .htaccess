@@ -1,4 +1,5 @@
 # mod_rewrite starts here
+# this removes .html from all site URLs
 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
