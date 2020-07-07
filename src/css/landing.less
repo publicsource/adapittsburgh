@@ -9,14 +9,14 @@
 
 @media @mobile {
   #intro h1 {
-    text-align: left;
+    max-width: 90%;
+    line-height: 1.4;
   }
 }
 
 #intro #intro-desc {
   @media @mobile {
     max-width: 90%;
-    text-align: left;
   }
 }
 
@@ -30,13 +30,13 @@
 }
 
 .userway-callout {
-  width: 80%;
+  width: 101%;
+  margin: 0;
   background-color: @highlight-blue;
-  padding: 0;
-  margin-left: 20%;
-  @media @mobile {
-    width: 90%;
-    margin-left: 5%;
+  padding: 1.5rem;
+  box-sizing: border-box;
+  @media @mobile-above {
+    padding: 1rem;
   }
 }
 
@@ -46,20 +46,28 @@
   width: 100px;
   height: auto;
   @media @mobile {
-    width: 25%;
+    width: 15%;
+  }
+}
+
+.userway-callout .userway-info {
+  width: 50%;
+  margin: auto;
+  @media @mobile-above {
+    width: 90%
   }
 }
 
 .userway-callout .userway-info h3 {
   float:left;
-  width:70%;
+  width: 80%;
   text-align:left;
   display: block;
   padding-left:3rem;
   font-size: 2.25rem;
   @media @mobile {
-    width: 75%;
-    font-size: 2.25rem;
+    width: 85%;
+    font-size: 1rem;
   }
 }
 
