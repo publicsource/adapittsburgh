@@ -21,16 +21,16 @@
       </div>
       <div class="row">
         <div class="ten columns">
-          <h1 id="story-headline">Introduction</h1>
+          <h1 id="story-headline">The heart of the law: A reading of the Americans with Disabilities Act by people with disabilities in the Pittsburgh region (Video)</h1>
         </div>
       </div>
       <div class="row">
-          <div id="story-byline">PublicSource & Unabridged Press</div>
+          <div id="story-byline">Jennifer Szweda Jordan, Unabridged Press</div>
       </div>
     </section>
 
     <!-- VIDEO -->
-    <figure class="ui-full-width video-container" style="margin-bottom: 4rem;">
+    <figure class="ui-full-width video-container" style="margin-bottom: 0rem;">
       <video controls preload="metadata" poster="assets/img/thumbnail-1.png" controlslist="nodownload">
         <source src="assets/video/ADA_Voices_Video.mp4" type="video/mp4" autostart="false">
         <track src="assets/transcripts/intro_en.vtt" kind="subtitles" srclang="en" label="English" default>
@@ -39,14 +39,13 @@
    </figure>
 
     <!-- TRANSCRIPT -->
-    <!--  <section id="transcript">
-      <a href="https://publicsource.org" target="_blank"
-      alt="link to video transcript">
-        <h3>Open transcript in a new tab</h3>
+    <section id="transcript-anchor">
+      <a href="#video-transcript" aria-label="skip to video transcript">
+        <h3>Jump to video transcript</h3>
       </a>
-    </section>-->
+    </section>
 
-    <%= t.include("partials/_story.html", {'story': archieml.inventions}) %>
+    <%= t.include("partials/_story.html", {'story': archieml.readingTheADA}) %>
 
     <!-- Footer -->
     <%= t.include("partials/_footer.html") %>
