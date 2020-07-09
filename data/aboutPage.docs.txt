@@ -1,9 +1,11 @@
 [+sections]
-The Americans with Disabilities Act is national recognition that access is a civil rights issue and that people with disabilities should be protected from discrimination in all areas of public life, including jobs, schools, transportation and all other places that are open to the general public. 
+{.subhed}
+Text: The Americans with Disabilities Act is national recognition that access is a civil rights issue and that people with disabilities should be protected from discrimination in all areas of public life, including jobs, schools, transportation and all other places that are open to the general public. 
 
 President George H.W. Bush signed the ADA into law on July 26, 1990. Its purpose is to ensure that people with disabilities have the same rights and opportunities as everyone else. 
 
 Thirty years later — as we are amid a civil rights movement attempting to again address persistent racism — we ask: Has the ADA worked for people with disabilities in Southwestern Pennsylvania? What work is left to be done?
+{}
 
 Pittsburgh-based media organizations <a href="http://www.publicsource.org">PublicSource</a> and <a href="https://www.unabridgedpress.com/">Unabridged Press</a> have partnered to bring you the voices of people with disabilities through reported articles and first-person essays, podcasts and video. 
 

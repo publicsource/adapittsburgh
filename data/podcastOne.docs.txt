@@ -333,6 +333,12 @@ Speaker: DAMITRA PENNY (17:57)
 Text: I think he thought I wanted money from him and I really didn't. I just want to be treated like everybody else.
 {}
 
+{.inline-img}
+Img: assets/img/podcast_2.png
+Alt: WRITE ME
+Caption: Pittsburgh disability advocate Alisa Grishman tries to get back on the sidewalk after a closed portion forced her to ride on the street. (Photo by Alex Collinger)
+{}
+
 {.subhed}
 Text: What city and county governments can and can’t do
 {}
