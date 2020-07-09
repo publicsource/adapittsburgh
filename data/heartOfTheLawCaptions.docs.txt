@@ -17,7 +17,7 @@ Text: continues to be a serious and pervasive social problem.
 
 {.transcript}
 Speaker: Adriana Quinones
-Text: La discriminación contra personas con discapacidad continúa ser un problema social serio y pervasivo. (Discrimination against people with disabilities continues to be a serious and pervasive social problem.)
+Text: La discriminacio&#96n contra personas con discapacidad continúa ser un problema social serio y pervasivo. (Discrimination against people with disabilities continues to be a serious and pervasive social problem.)
 {}
 
 {.transcript}
