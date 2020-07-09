@@ -54,12 +54,6 @@ Speaker: JENNIFER SZWEDA JORDAN (02:12)
 Text: Josie. How about you?
 {}
 
-{.inline-img}
-Img: assets/img/josie.png
-Alt: WRITE ME
-Caption: Healthcare ethicist Josie Badger recording the podcast via Zoom. (Courtesy Photo)
-{}
-
 {.subhed}
 Text: Alaska’s aging population and tourism equals ease of travel
 {}
@@ -145,6 +139,12 @@ Text: Supermarket?
 {.transcript}
 Speaker: JOSIE BADGER (07:56)
 Text: Yeah, yeah. I don't have the beeping back up or baskets on it, but yes.
+{}
+
+{.inline-img}
+Img: assets/img/josie.png
+Alt: WRITE ME
+Caption: Healthcare ethicist Josie Badger recording the podcast via Zoom. (Courtesy Photo)
 {}
 
 {.subhed}
