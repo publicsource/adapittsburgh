@@ -79,7 +79,7 @@
 
       <!-- row 2 -->
       <div class="row">
-        <article class="twelve columns">
+        <article class="two-thirds column">
           <a href="faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects">
             <img src="assets/img/video_thumbnail.jpg" alt="placeholder image that links to full story"/>
             <div class="index-headline">
@@ -88,6 +88,16 @@
             <div class="index-headline-border" style="width:25%"></div>
           </a>
             <div class="index-byline">Jennifer Szweda Jordan, Unabridged Press</div>
+        </article>
+        <article class="one-third column">
+          <div class="userway-callout">
+            <img src="assets/img/userway.png" alt="userway icon"/>
+            <h3 class="userway-info">
+              Click this icon in the bottom right corner or use your keyboard tab key to use our accessibility menu.
+              With it, you can customize text, increase page contrast, listen to page content and find other accessibility features.
+            </h3>
+          </div></div>
+          <div style="clear:both"></div>
         </article>
       </div>
 
@@ -117,6 +127,7 @@
       </div>
 
       <div class="spacer"></div>
+      <%= t.include("partials/_userway.html") %>
     </main>
     <!-- END STORIES -->
     <!-- END LANDING PAGE CONTENT -->
@@ -126,6 +137,5 @@
 
     <script src="app.js" async></script>
     <%= t.include("partials/_analytics.html") %>
-    <%= t.include("partials/_userway.html") %>
   </body>
 </html>
