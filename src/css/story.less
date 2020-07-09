@@ -124,6 +124,9 @@
 .transcript {
   width: 74%;
   margin: auto;
+  @media @mobile-above {
+    width: 90%;
+  }
 }
 
 .transcript .speaker {
@@ -132,8 +135,10 @@
   width: 25%;
   .futura();
   text-transform: uppercase;
-  @media @mobile {
-    width: 100%;
+  @media @mobile-above {
+    width: 90%;
+    float:none;
+    margin-left: 5%;
   }
 }
 
@@ -142,9 +147,11 @@
   margin-left: 0.5rem;
   width: 74%;
   margin-bottom: 3rem;
-  @media @mobile {
-    width: 100%;
+  @media @mobile-above {
+    width: 90%;
     margin-left: 0;
+    float:none;
+    margin-left: 5%;
   }
 }
 

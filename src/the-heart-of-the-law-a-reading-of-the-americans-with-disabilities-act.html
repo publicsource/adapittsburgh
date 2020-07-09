@@ -30,15 +30,11 @@
     </section>
 
     <!-- VIDEO -->
-    <figure class="ui-full-width video-container" style="margin-bottom: 0rem;">
-      <video controls preload="metadata" poster="assets/img/thumbnail-1.png" controlslist="nodownload">
-        <source src="assets/video/ADA_Voices_Video.mp4" type="video/mp4" autostart="false">
-        <track src="assets/transcripts/intro_en.vtt" kind="subtitles" srclang="en" label="English" default>
-        Your browser does not support this video.
-      </video>
+    <figure class="video-container" aria-describedby="UPDATE ME">
+      <div style="padding:52.71% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/435890220?texttrack=en&color=CD5B45&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
    </figure>
 
-    <!-- TRANSCRIPT -->
+    <!-- TRANSCRIPT ANCHOR -->
     <section id="transcript-anchor">
       <a href="#video-transcript" aria-label="skip to video transcript">
         <h3>Jump to video transcript</h3>
@@ -46,6 +42,10 @@
     </section>
 
     <%= t.include("partials/_story.html", {'story': archieml.readingTheADA}) %>
+
+    <a name="video-transcript"><h3 style="text-align: center;">Transcript</h3></a>
+    <%= t.include("partials/_story.html", {'story': archieml.heartOfTheLawCaptions}) %>
+    <div class="spacer"></div>
 
     <!-- Footer -->
     <%= t.include("partials/_footer.html") %>

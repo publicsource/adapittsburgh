@@ -45,20 +45,6 @@
         <div class="transcript-text"><%= section.value.text %></div>
       </div>
 
-  <!-- Double image -->
-  <% }else if(section.type == "inline-double"){ %>
-    <section>
-      <img class="inline-img" alt="<%= section.value.alt1 %>" src="<%= section.value.img1 %>" style="max-width: 49%;float:left" />
-      <div class="story-caption-db">
-        <p><%= section.value.caption1 %></p>
-      </div>
-    </section>
-
-    <img class="inline-img" alt="<%= section.value.alt2 %>" src="<%= section.value.img2 %>" style="max-width: 49%;float:left" />
-    <div class="story-caption-db">
-      <p><%= section.value.caption2 %></p>
-    </div>
-
   <% } %>
   <% }); %>
   <div class="spacer"></div>

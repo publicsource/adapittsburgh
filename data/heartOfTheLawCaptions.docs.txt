@@ -1,0 +1,108 @@
+[+sections]
+
+{.transcript}
+Speaker: Intro
+Text: (Light music; grid of speakers' images and project title 'ADA at 30: Accessibility in Pittsburgh' appears)
+{}
+
+{.transcript}
+Speaker: Dustin Schneider
+Text: (sitting with his dog, Spangle) Discrimination against individuals with disabilities
+{}
+
+{.transcript}
+Speaker: David Hale
+Text: continues to be a serious and pervasive social problem.
+{}
+
+{.transcript}
+Speaker: Adriana Quinones
+Text: La discriminación contra personas con discapacidad continúa ser un problema social serio y pervasivo. (Discrimination against people with disabilities continues to be a serious and pervasive social problem.)
+{}
+
+{.transcript}
+Speaker: James Shirley
+Text: Discrimination against individuals with disabilities persists
+{}
+
+{.transcript}
+Speaker: Puneet Kumar
+Text: in such critical areas as employment, housing, public accommodations,
+{}
+
+{.transcript}
+Speaker: Rich McGann & Rich Patton
+Text: (both men are signing) education, transportation, communication, recreation,
+{}
+
+{.transcript}
+Speaker: Mon Still
+Text: recreation, institutionalization, health service,
+{}
+
+{.transcript}
+Speaker: Isabel Ruiz
+Text: (signing as she talks) voting and access to public services.
+{}
+
+{.transcript}
+Speaker: James Shirley
+Text: Individuals with disabilities continually
+{}
+
+{.transcript}
+Speaker: Dustin Schneider
+Text: (sitting with his dog, Spangle) encounter various forms of discrimination,
+{}
+
+{.transcript}
+Speaker: Richard St. John
+Text: including outright intentional exclusion, the discriminatory effects of architectural,
+{}
+
+{.transcript}
+Speaker: Puneet Kumar
+Text: transportation and communication barriers, overprotective rules and policies,
+{}
+
+{.transcript}
+Speaker: Rich McGann & Rich Patton
+Text: (both men are signing) failure to make modifications to existing facilities and practices,
+{}
+
+{.transcript}
+Speaker: John Siciliano
+Text: exclusionary qualification standards and criteria, segregation and relegation to lesser services,
+{}
+
+{.transcript}
+Speaker: Myron Ellis
+Text: programs, activities, benefits, jobs or other opportunities.
+{}
+
+{.transcript}
+Speaker: Isabel Ruiz
+Text: (signing as she talks) Census data, national polls and other studies have documented that people with disabilities, as a group,
+{}
+
+{.transcript}
+Speaker: John Siciliano
+Text: occupy an inferior stage in our society and are severely disadvantaged
+{}
+
+{.transcript}
+Speaker: David Hale
+Text: socially, vocationally, economically, and educationally.
+{}
+
+{.transcript}
+Speaker: Mon Still
+Text: The nation's proper goals regarding individuals with disabilities are to assure the equality
+{}
+
+{.transcript}
+Speaker: Richard “Eric/Train Wreck” Burkett
+Text: of opportunity, full participation, independent living and economic self-sufficiency.
+{}
+
+[]
