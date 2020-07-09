@@ -26,7 +26,7 @@
         </div>
       </div>
       <div class="row">
-          <div id="story-byline">Jennifer Szweda Jordan, Unabridged Press</div>
+          <div id="story-byline">Jennifer Szweda Jordan</div>
       </div>
     </section>
 
@@ -46,7 +46,11 @@
 
     <%= t.include("partials/_story.html", {'story': archieml.readingTheADA}) %>
 
-    <a name="video-transcript"><h3 style="text-align: center;">Transcript</h3></a>
+    <a name="video-transcript">
+      <center><h2 style="margin-bottom: 3rem;">
+        Transcript
+      </h2></center>
+    </a>
     <%= t.include("partials/_story.html", {'story': archieml.heartOfTheLawCaptions}) %>
     <div class="spacer"></div>
 
