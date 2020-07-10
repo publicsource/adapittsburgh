@@ -63,7 +63,7 @@
 
 .story-pullquote {
   border-left: 1rem solid @highlight-blue;
-  margin-left: 26%;
+  margin-left: 30%;
   @media @mobile-above {
     margin: 5rem 0 5rem 5%;
     border-left: 0;
@@ -104,9 +104,9 @@
   max-width: 65%;
   box-sizing: border-box;
   margin: 1rem 17.5%;
-  @media @mobile {
-    max-width: 100%;
-    margin: 0;
+  @media @mobile-above {
+    max-width: 95%;
+    margin: 0 2.5%;
   }
 }
 
@@ -114,15 +114,19 @@
   max-width: 60%;
   margin: -0.5rem 20%;
   font-size: 1.75rem;
-  @media @mobile {
+  @media @mobile-above {
     max-width: 90%;
     margin: 0 5%;
+    text-align: left;
   }
 }
 
 .story-caption #center-me {
   text-align: center;
   margin-top:-3rem;
+  @media @mobile {
+    text-align: left;
+  }
 }
 
 .transcript {
