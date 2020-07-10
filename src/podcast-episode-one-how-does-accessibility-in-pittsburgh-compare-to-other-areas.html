@@ -80,8 +80,10 @@
     <%= t.include("partials/_story.html", {'story': archieml.podcastOne}) %>
 
     <!-- Contact form -->
-    <section class="container pre-footer" style="margin: 2rem auto;">
-      <%= t.include("partials/_preFooter.html") %>
+    <section role="contact form" style="margin-top: 2rem;">
+      <div class="inline">
+        <%= t.include("partials/_preFooter.html") %>
+      </div>
     </section>
 
     <!-- Footer -->
