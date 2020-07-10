@@ -2,8 +2,7 @@
 #main-nav {
   width: 100%;
   vertical-align: middle;
-  max-height: 80px;
-  background-color: #eee;
+  background-color: #fff;
   z-index: 999999;
 }
 
@@ -59,6 +58,18 @@
   position: fixed;
   top: 0;
   width: 100%;
+}
+
+.nav-up {
+  top: -80px;
+  border: 0;
+  transition: 0.2s ease-in-out;
+}
+
+/*fixes the ka-chunk when the header isn't sticky anymore at the top*/
+.sticky + .container,
+.sticky + .video-container {
+  padding-top: 80px;
 }
 
 /*MOBILE STYLING*/
