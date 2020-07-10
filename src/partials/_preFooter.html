@@ -6,11 +6,11 @@
     action="https://formspree.io/mlepwkvp"
     method="POST"
   >
-  <label>
-    <textarea name="message"></textarea>
+  <label aria-label="message">
+    <textarea name="message" aria-required="true"></textarea>
   </label><br />
-    <label style="margin-top: -2rem; text-align: left;">
-      Email:<br />
+    <label style="margin-top: -2rem; text-align: left;" aria-required="true" aria-labelledby="email">
+      Email (Required):<br />
       <input type="text" name="_replyto">
     </label>
 
