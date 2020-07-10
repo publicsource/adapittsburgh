@@ -38,6 +38,16 @@
       <p><%= section.value.caption %></p>
     </div>
 
+  <!-- Vertical image -->
+  <% }else if(section.type == "vertical-inline-img"){ %>
+    <div class="vertical">
+      <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+      <div class="vertical-caption">
+        <p><%= section.value.caption %></p>
+      </div>
+    </div>
+    <p class="vertical-float"><%= section.value.text %></p>
+
     <!-- Transcript -->
     <% }else if(section.type == "transcript"){ %>
       <div class="transcript">

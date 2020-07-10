@@ -110,6 +110,17 @@
   }
 }
 
+.vertical {
+  max-width: 30%;
+  box-sizing: border-box;
+  margin: 0 3rem 1rem 17.5%;
+  float:left;
+  @media @mobile-above {
+    max-width: 95%;
+    margin: 0 2.5%;
+  }
+}
+
 .story-caption {
   max-width: 60%;
   margin: -0.5rem 20%;
@@ -121,7 +132,31 @@
   }
 }
 
-.story-caption #center-me {
+.vertical-caption {
+  max-width: 95%;
+  margin: -0.5rem 2.5%;
+  font-size: 1.75rem;
+  @media @mobile-above {
+    max-width: 90%;
+    margin: 0 5%;
+    text-align: left;
+  }
+}
+
+.vertical-float {
+  width: 35%;
+  float: left;
+  margin-left: 0;
+  @media @mobile-above {
+    float:none;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 2rem;
+  }
+}
+
+.story-caption #center-me,
+.vertical #center-me {
   text-align: center;
   margin-top:-3rem;
   @media @mobile {
