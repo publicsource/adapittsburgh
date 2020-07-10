@@ -13,13 +13,9 @@ caption: Photo of President George H.W. Bush signing into law the Americans with
 
 At that time, 30 years ago, Allegheny County’s buses had no wheelchair lifts — nor did many around the country. Sign language interpretation was rarely afforded at public meetings. Many people with physical and mental disabilities were housed in sprawling institutions in remote locations with little opportunity for education or rehabilitation.
 
+Now at a bus stop, you’ll often see the driver lower a ramp for a person in a wheelchair. People with intellectual disabilities are essential workers at grocery stores. Stoplights beep so people who are blind can safely cross intersections.
 
-{.vertical-inline-img}
-img: assets/img/jsjpick_crawl_org.jpg
-alt: Archival photograph of two disability rights activists from March 12, 1990. They are climbing the 83 steps up capitol hill. The photograph is shot from a low angle on a lower step. In front, an activist is sitting and using their hands to push themself up the stairs backwards. In the background, another activist is crawling on his hands and knees. In the very background, a photographer is taking their photo.
-caption: More than 60 activists climbed the 83 steps of the U.S. Capitol March 12, 1990, to urge Congress to pass the Americans with Disabilities Act. (Used by permission. © Tom Olin – Tom Olin Collection.)
-text: Now at a bus stop, you’ll often see the driver lower a ramp for a person in a wheelchair. People with intellectual disabilities are essential workers at grocery stores. Stoplights beep so people who are blind can safely cross intersections.<br><br>And yet the promise of <a href="https://www.ada.gov/pubs/adastatute08.htm" target="_blank" aria-label="the ADA, link to the full text of the ADA (opens in new tab)">the ADA</a> is not fully realized. On many Pittsburgh streets, you'll see a single step at a door that stops people in wheelchairs from getting in. Many people who are blind can’t easily navigate the websites that many of us rely on for every facet of life. And negative attitudes toward people with disabilities still exist; several have shared that while many physical accommodations are made, some store owners or internet trolls still isolate them—intentionally or without thinking of it.
-{}
+And yet the promise of <a href="https://www.ada.gov/pubs/adastatute08.htm" target="_blank" aria-label="the ADA, link to the full text of the ADA (opens in new tab)">the ADA</a> is not fully realized. On many Pittsburgh streets, you'll see a single step at a door that stops people in wheelchairs from getting in. Many people who are blind can’t easily navigate the websites that many of us rely on for every facet of life. And negative attitudes toward people with disabilities still exist; several have shared that while many physical accommodations are made, some store owners or internet trolls still isolate them—intentionally or without thinking of it.
 
 {.inline-img}
 img: assets/img/sidewalk_still.jpg
@@ -30,8 +26,6 @@ caption: Crosswalks in the middle of long streets aren't always accessible to pe
 <div style="clear:both"></div>
 
 For this project, a beauty queen, two accomplished parathletes, a Steelers fan and 10 other people from our region—all of whom have disabilities—read a passage from the ADA. They took time off work and traveled to downtown Pittsburgh from all over the region to sit under studio lights, look directly into the camera and read both unpleasant truths and aspirations. Some stayed and shared their personal stories—some of which are included in companion podcasts that will run throughout the two weeks of this project.
-
-<iframe src="https://drive.google.com/file/d/1ylws4XBu4BoJQB-W5JEsD4YkELtZ5DLI/preview" width="640" height="480"></iframe>
 
 The on-camera readers were filmed by an inclusive recording crew. Three on the crew support people with intellectual disabilities in group homes. A trio of producers from the Joey Travolta/Arts for Autism Film Camp were employed in developing the concept and in production. Alex Collinger, who was first trained at the camp and then became an employee, was the lead videographer. This team was brought together by the <a href="https://www.allabilitiesmedia.org/" target="_blank" aria-label="All-Abilities Media Project, link to the project website (opens in a new tab)">All-Abilities Media Project</a> in which people with disabilities receive production training and paid experience in media skills. It’s a collaboration between Unabridged Press housed at the Center for Media Innovation at Point Park University. PublicSource visual producer Ryan Loew also helped to consult and work on the video.
 
