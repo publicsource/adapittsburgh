@@ -15,7 +15,7 @@ I use some pretty cool technology called a screen reader to access the computer 
 {.inline-img}
 img: assets/img/catherine_3.JPG
 alt: Close up photograph of essay author Catherine Getchell, a blind woman wearing a blue blazer. She’s sitting at a wooden picnic table in her backyard. There’s greenery in the background.
-caption: Catherine Getchell in her backyard in Squirrel Hill. (Photo by Jay Manning/PublicSource)
+caption: <div id="center-me">Catherine Getchell in her backyard in Squirrel Hill. (Photo by Jay Manning/PublicSource)</div>
 {}
 Accessible design is not difficult. It just takes a little bit of basic knowledge by developers and designers – knowledge that is typically not taught in web development and digital media classes. For example, links on websites and controls on apps need to be labeled with text, not just images. A form on a website needs to be operable via the keyboard and not require a mouse. The mouse, being an inherently visual interface, is not usable by individuals without vision.
 Digital accessibility is important for people with all kinds of disabilities, not just blindness. My colleague, Greg Traynor, works with many individuals with learning disabilities such as dyslexia, who need to have electronic text spoken aloud to comprehend it. If their textbook or employee handbook is an image-based PDF, their text-to-speech software won’t be able to read it to them. My colleague who is deaf was required to watch a training video for work, but the video did not have closed captions, so she was unable to complete the training.
