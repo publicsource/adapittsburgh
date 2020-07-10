@@ -33,7 +33,7 @@ function hasScrolled() {
             $('#main-nav').addClass('sticky').removeClass('nav-up').css("border-bottom", "1px solid #ddd");
         }
         // Gets rid of border once they go basically up to the top
-        if($(window).scrollTop() < 500) {
+        if($(window).scrollTop() < 100) {
           $('#main-nav').css("border-bottom", "0").removeClass('sticky');
         }
     }
