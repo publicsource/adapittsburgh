@@ -81,10 +81,10 @@ Disability Rights PA looked to a similar case litigated in Michigan in early May
 text: The path forward
 {}
 
-David Hale, a 40-year-old McKees Rocks resident who uses a wheelchair, plans on voting in the general election in person. He’s not <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="link to related article on publicsource's website (opens in a new tab)">convinced voting by mail is foolproof</a>.
+David Hale, a 40-year-old McKees Rocks resident who uses a wheelchair, plans on voting in the general election in person. He’s not convinced voting by mail is foolproof.
 
 {.interjection}
-text: See also <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="link to related article on publicsource's website (opens in a new tab)">“Allegheny County voters identify 5 issues to address before November presidential election”</a>
+text: See also <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="link to related article on publicsource's website (opens in a new tab)">Allegheny County voters identify 5 issues to address before November presidential election</a>
 {}
 
 “There’s things that can go wrong with sending it in the mail versus being there, going down, and going through the process,” Hale said. “I’d rather go through the process of voting, of using the machines and everything, instead of sending it off. There’s more trust there.”
