@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <!-- imports all header info -->
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <title>Without tech designed for people with disabilities, we might not have these inventions | ADA at 30: Accessibility in Pittsburgh</title>
+
+    <!-- imports main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+    <!-- imports global header -->
+    <%= t.include("partials/_main-nav.html") %>
+
+    <!-- STORY INFO -->
+    <div class="container" id="story-intro" style="overflow-x: hidden;">
+      <div class="row">
+        <div id="story-date">
+            July 15, 2020
+        </div>
+      </div>
+      <div class="row">
+        <div class="ten columns">
+          <h1 id="story-headline">Without tech designed for people with disabilities, we might not have these inventions today
+</h1>
+        </div>
+      </div>
+      <div class="row">
+          <div id="story-byline">Francesca Dabecco</div>
+      </div>
+    </div>
+
+    <!-- LEAD IMAGE -->
+    <div class="ui-full-width" id="lead-image">
+      <img src="assets/img/segway_pittsburgh.jpg" alt="Wide shot photograph of a line of people riding segways. They're crossing a bridge in Pittsburgh. Behind them is Downtown Pittsburgh."/>
+      <div id="lead-caption" aria-label="caption">
+        Segway riders touring through downtown Pittsburgh. (Photo courtesy of Segway Pittsburgh.)
+      </div>
+    </div>
+
+    <%= t.include("partials/_story.html", {'story': archieml.inventions}) %>
+
+    <!-- Footer -->
+    <%= t.include("partials/_footer.html") %>
+
+    <script src="app.js" async></script>
+    <%= t.include("partials/_analytics.html") %>
+
+  </body>
+</html>

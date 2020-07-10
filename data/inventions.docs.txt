@@ -1,54 +1,74 @@
 [+sections]
 
-If you thought kids were responsible for text abbreviations like “LOL” and “IDK,” think again. Texting was created for people who are deaf or hard of hearing. 
+If you thought kids were solely responsible for text abbreviations like “LOL” and “IDK,” think again. Texting was created for people who are deaf or hard of hearing.
 
-From texting to somewhat comic devices like Segways, new norms and technologies that many of us now enjoy grew from the needs of people with disabilities. The 30-year-old Americans with Disabilities Act played a part.
+We can also thank the disability community for the technology behind inventions like Siri and Amazon’s Alexa, which allows you to make hands-free calls, command an internet search or read a text aloud.
 
-“It wasn’t until 1990 that people realized that people with disabilities have the right to vote, live in their own homes, fly on an airplane,” says Dr. Rory Cooper, who directs the Human Engineering Research Laboratories (HERL) at the University of Pittsburgh. His team develops new robotic limbs, wheelchairs and other mobility devices. 
+New norms and technologies that many of us enjoy grew from the needs of people with disabilities. The 30-year-old Americans with Disabilities Act played a part.
 
-Equity advocate Angela Glover Blackwell says as much in an article in the Stanford Social Innovation Review. <a href="https://ssir.org/articles/entry/the_curb_cut_effect">article</a>
+“It wasn’t until 1990 that people realized that people with disabilities have the right to vote, live in their own homes, fly on an airplane,” says Rory Cooper, who directs the Human Engineering Research Laboratories at the University of Pittsburgh. His team develops robotic limbs, wheelchairs and other mobility devices. 
 
-“When the wall of exclusion came down, everybody benefited,” she wrote, citing the example of the corners of sidewalk curbs cut into slopes. 
+{.inline-img}
+Img: assets/img/MEBot_HD.jpg
+Caption: Rory Cooper, who directs the Human Engineering Research Laboratories at the University of Pittsburgh, testing the MEBot, a device that tackles curbs and challenging terrains, like the original iBot. (Photo courtesy of Human Engineering Research Laboratories)
+Alt: Composite image of four photographs of Roy Cooper testing the MEBot, a device similar to a motorized wheelchair. In the top row, Cooper demonstrates curb negotiation. The MEBot can lower itself down off a curb without a curb cut. In the bottom row, Cooper demonstrates self leveling on uneven ground. On a slanted, gravel path, the MEBot keeps the wheelchair user level but slants its wheels to compensate.
+{}
+
+National equity advocate Angela Glover Blackwell explains how designs that aid people with disabilities, such as curb cuts, have transformed life for all of society in an <a href="https://ssir.org/articles/entry/the_curb_cut_effect">article in the Stanford Social Innovation Review</a>.
+
+“When the wall of exclusion came down, everybody benefited,” she wrote. “...Parents pushing strollers headed straight for curb cuts. So did workers pushing heavy carts, business travelers wheeling luggage, even runners and skateboarders.” 
 
 {.subhed}
 text: Making the cut
 {}
 
-“Parents pushing strollers headed straight for curb cuts, Blackwell writes. “So did workers pushing heavy carts, business travelers wheeling luggage, even runners and skateboarders.” 
+Curb cuts were first installed in Kalamazoo, Michigan, where disabled veteran and lawyer Jack Fisher successfully advocated for them. World War II veterans were returning with disabilities and demand grew for accessibility. 
 
-Blackwell points out that nine out of 10 “unencumbered pedestrians” go out of their way to use a curb cut, according to one study. Today, curb cuts are so commonplace, we tend to forget their original intent. In fact, this very concept, a design meant to benefit wheelchair users ultimately benefits all of society, is called the “curb cut effect.”
+Many communities didn’t enthusiastically adopt curb cuts. At Hollywood’s “Walk of Fame” in 1988, protesters hammered and chiseled away the concrete at street corners, destroying the curbs that stopped people in wheelchairs from crossing. Activists also laid down plywood “people’s ramps” over other curbs.
 
-Curb cuts were first installed in Kalamazoo, Michigan when disabled veteran and lawyer Jack Fisher successfully advocated for them. World War II veterans were returning with disabilities and demand grew for accessibility. The need drove what’s called assistive or universal design.
-
-{.subhed}
-text: Two-wheel tech
+{.inline-img}
+Img: assets/img/10.2-curbcut-la-sm.jpg
+Caption: Protesters take sledgehammers to the curb along Hollywood’s “Walk of Fame” in Los Angeles, calling it a “Walk of Shame,” on March 5, 1988. (Used by permission. © Tom Olin – Tom Olin Collection.)
+Alt: A black and white photo of a group of protestors in wheelchairs. One is using a sledgehammer to break up the curb. Several protestors hold signs saying “cut the curbs”; “build a better way”; and “walk of shame.”
 {}
 
-In the early ‘90s, Dr. Rory Cooper tested out a wheelchair that could climb stairs, curbs, and traverse snow. It was called the iBot. 
-
-“I was the first person with a disability to sit on it,” said Cooper. He’d used a wheelchair since 1980 after being hit by a bus,
-
-The iBot was expensive for its time. It wasn’t granted Medicare approval that might have made it marketable to people with disabilities. But the technology was recycled to create the upright Segway people mover. No longer useful to wheelchair users, it’s a boon for sightseers whirring along city sidewalks or mall cops. 
-
-“Anytime I see one of those,” Dr. Cooper said, “I can smile and remember a time where it didn’t exist.”
+Blackwell pointed out that nine out of 10 “unencumbered pedestrians” go out of their way to use a curb cut, according to one study. Today, curb cuts are so commonplace, many people tend to forget their original intent. The “curb cut effect” or “universal design” are the terms given to technologies, products and architecture that primarily benefit people with certain disabilities but ultimately help all of us. 
 
 {.subhed}
-text: Tools tailored for everyone
+Text: Two-wheel tech
 {}
 
-<b>PHOTOS:</b> 
+In the early 1990s, Cooper of the Pitt lab tested out a wheelchair that could climb stairs and curbs and traverse snow. It was called the iBot. 
 
-In 1990, designer Formosa led development of the thick, rubber-handled can openers and other tools called OXO “Good Grips.” Originally invented for people with arthritis or low vision, the tools are easier on everyone’s hands. 
+“I was the first person with a disability to sit on it,” Cooper said. He’d used a wheelchair since 1980 after being hit by a bus.
 
-Formosa has millions of views on Youtube for his <a href="https://www.youtube.com/watch?v=25peayoZOfs">videos with Epicurious</a> about improving the design of kitchen products.
+The iBot was expensive for its time. It wasn’t granted Medicare approval that might have made it marketable to people with disabilities. But the gyroscope technology that allowed the chair to balance on two wheels, invented by engineer Dean Kamen, was recycled to create the upright Segway people mover. No longer useful to wheelchair users, it’s a boon for sightseers whirring along city sidewalks.
+
+“Anytime I see one of those,” Cooper said, “I can smile and remember a time where it didn’t exist.”
+
+{.inline-img}
+Img: assets/img/low_seat.jpg
+Caption: MEBot adjusted to sit at table level. (Photo courtesy of Human Engineering Research Laboratories)
+Alt: Photograph of three people sitting at a low table. In the foreground, a wheelchair user sitting in the MEBot is able to lower the height of his chair so he sits comfortably at the table.
+{}
+
+{.subhed}
+Text: Tailored tools
+{}
+Kitchens can be especially difficult places to navigate, but assistive features can often be seen in homes beyond those with disabilities: pull-down kitchen shelving, varied counter heights, wall ovens, motion-sensored faucets and easy-grip gadgets.
+
+In 1990, designer Formosa led development of the thick, rubber-handled can openers and other tools called <a href="https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/">OXO “Good Grips.”</a> Originally invented for people with arthritis or low vision, the tools are easier on everyone’s hands. 
+
+Formosa has millions of views on Youtube for <a href="https://www.youtube.com/watch?v=25peayoZOfs">videos with Epicurious</a> about improving the design of kitchen products.
 
 “If more people can use a product, it’s in everyone’s interest,” he said. “Design can include or exclude people. If you are alienating people who have physical challenges, it’s a form of segregation. Disability is determined by design.”
 
-<b><a href="https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/">https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/</a></b>
+<i>Do you have more examples of assistive and adaptive technology that has gone mainstream? Email Francesca Dabecco, a Pittsburgh-based freelance journalist, at</i> <i><a href="mailto:francescadabecco@gmail.com">francescadabecco@gmail.com</a></i><i>.</i>
 
+<i>This story was fact-checked by Jon Moss.</i>
 <hr>
 
-<b>Disability Advisor Note:</b>
-Having a disability is expensive. Just like curb cuts and OXO products, "disability accommodations" can be beneficial to everyone. As an individual who has had a disability since birth, I spend or my insurance pays a monthly rental fee of $2000 for a ventilator, over $30,000, power wheelchair, and on average $30 an hour for my in-home care. My care and medications annually cost--as a healthy person with a disability--at least $250,000. When an item or modification is considered “special” or to serve a niche population, the price is significantly higher. This is why universal design is critical. As the general public sees the benefit of using assistive technology the demand goes up, decreasing the cost of these accommodations. Integrating universal design helps everyone, making life easier for the general population and more independent for the disability community.
-
+<b>A note from this story’s adviser:</b>
+Having a disability is expensive. Just like curb cuts and OXO products, "disability accommodations" can be beneficial to everyone. As an individual who has had a disability since birth, I spend — or my insurance pays — a monthly rental fee of $2,000 for a ventilator, more than $30,000 on a power wheelchair and, on average, $30 an hour for my in-home care. As a healthy person with a disability, my care and medications annually cost at least $250,000. When an item or modification is considered “special” or to serve a niche population, the price is significantly higher. This is why universal design is critical. As the general public sees the benefit of using assistive technology, the demand goes up and decreases the cost of these accommodations. Integrating universal design helps everyone, making life easier for the general population and more independent for the disability community.
+—Josie Badger DHCE, CRC, president of J Badger Consulting
 []
