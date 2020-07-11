@@ -7,6 +7,22 @@
     <title>ADA at 30: Accessibility in Pittsburgh</title>
   </head>
 
+  <!-- BEGIN TWITTER SUMMARY CARD -->
+ <meta name="twitter:card" content="summary_large_image">
+ <meta name="twitter:title" content="ADA at 30: Accessibility in Pittsburgh">
+ <meta name="twitter:site" content="@PublicSourcePA">
+ <meta name="twitter:url" content="https://adapittsburgh.com/">
+ <meta name="twitter:image" content="https://adapittsburgh.com/assets/img/video_thumbnail.jpg">
+ <meta name="twitter:description" content="The Americans with Disabilities Act was signed into law on July 26, 1990. For this anniversary project, we set out to learn: How has the ADA changed life for Pittsburghers with disabilities? And what progress still needs to be made 30 years later? Here’s what we found out.">
+
+ <!-- Social sharing meta -->
+ <meta property="og:type" content="article">
+ <meta property="og:title" content="ADA at 30: Accessibility in Pittsburgh">
+ <meta property="og:site_name" content="ADA at 30: Accessibility in Pittsburgh">
+ <meta property="og:url" content="https://adapittsburgh.com/">
+ <meta property="og:image" content="https://adapittsburgh.com/assets/img/video_thumbnail.jpg">
+ <meta property="og:description" content="The Americans with Disabilities Act was signed into law on July 26, 1990. For this anniversary project, we set out to learn: How has the ADA changed life for Pittsburghers with disabilities? And what progress still needs to be made 30 years later? Here’s what we found out.">
+
   <body>
     <!-- imports global header -->
     <%= t.include("partials/_main-nav.html") %>
@@ -14,16 +30,16 @@
     <!-- BEGIN LANDING PAGE CONTENT -->
 
     <!-- INTRO VIDEO -->
-    <article class="video-container">
+    <section class="video-container" title="Introduction video" aria-label="Introduction video hosted on vimeo">
       <div style="padding:52.71% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/435890220?texttrack=en&color=CD5B45&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen name="Introduction Video" title="Video: Faces of the law: The Americans with Disabilities Act read by those it protects"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-    </article>
+    </section>
 
-    <main class="container"><a name="main-content"></a>
+    <main class="container"><a name="main-content" aria-hidden="true"></a>
 
       <div class="spacer"></div>
 
       <!-- begin intro text -->
-      <section class="row" role="article">
+      <section class="row" title="Introduction text" aria-label="Introduction text">
         <center id="intro" class="ten columns offset-by-one">
           <h1>The Americans with Disabilities Act was signed into law on July 26, 1990.</h1>
           <h3 id="intro-desc">
@@ -32,7 +48,7 @@
         </center>
       </section>
 
-      <article class="row">
+      <section class="row">
         <div class="ten columns offset-by-one userway-callout">
           <h3 class="userway-info">
             Click the Accessibility Menu in the bottom right, or use your keyboard tab key, to customize text and contrast, listen to page content and find other accessibility features.
@@ -40,15 +56,15 @@
         </div>
       </section>
 
-      <div class="spacer" style="clear:both;"></div>
+      <div class="spacer" style="clear:both;" aria-hidden="true"></div>
 
       <h2 style="margin-bottom: 2rem;">The Latest</h2>
 
       <!-- BEGIN STORIES -->
       <!-- row 1 -->
-      <div class="row">
+      <section class="row">
         <article class="one-third column">
-          <a href="podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas" aria-label="links to podcast and transcript">
+          <a href="podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas" aria-label="Podcast episode 1: How does accessibility in the Pittsburgh region compare to other areas?">
             <img src="assets/img/jsjpick_crawl.jpg" alt="Archival photograph of two disability rights activists from March 12, 1990. They are climbing the 83 steps up capitol hill. The photograph is shot from a low angle on a lower step. In front, an activist is sitting and using their hands to push themself up the stairs backwards. In the background, another activist is crawling on his hands and knees. In the very background, a photographer is taking their photo."/>
             <div class="index-headline">
               Podcast episode 1: How does accessibility in the Pittsburgh region compare to other areas?
@@ -57,7 +73,7 @@
           </a>
         </article>
         <article class="two-thirds column">
-          <a href="voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" aria-label="links to full story">
+          <a href="voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" aria-label="Voters with disabilities are accustomed to obstacles. How will COVID-19 impact accessibility?">
             <img src="assets/img/voting_1.JPG"
             alt="Photograph of a row of ballot scanning machines."/>
             <div class="index-headline">
@@ -67,14 +83,14 @@
           </a>
             <div class="index-byline">Matt Petras</div>
         </article>
-      </div>
+      </section>
 
-      <div class="spacer"></div>
+      <div class="spacer" aria-hidden="true"></div>
 
       <!-- row 2 -->
       <div class="row">
         <article class="twelve columns">
-          <a href="faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects" aria-label="links to video, transcript, and accompanying story">
+          <a href="faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects" aria-label="Faces of the law: The Americans with Disabilities Act read by those it protects">
             <img src="assets/img/video_thumbnail.jpg" alt="A full screen video thumbnail. The thumbnail is of three rows of four squares, twelve total. Each square has one or a small group of people inside it. They are all individuals from Pittsburgh who have a variety of disabilities. Some are with their families. Some are signing. One has a bow and arrow, one has a cane, one is a a wheelchair, and one has a dog."/>
             <div class="index-headline">
               Faces of the law: The Americans with Disabilities Act read by those it protects
@@ -90,26 +106,20 @@
     <!-- first blue quote box -->
     <aside class="ui-full-width">
       <div class="index-quote">
-        <a href="voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" aria-label="links to the story this quote is from">
+        <a href="voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" aria-label="links to the story this quote is from" aria-label="I obviously had to get one of the people working the polling location to help me...it was just kind of an extra step that I would have rather been able to do independently." aria-describedby="link opens the article this quote is from">
           <h3 class="index-quote-text">
-            “I obviously had to get one of the people working the polling location
-            to help me...it was just kind of an extra step that I would have
-            rather been able to do independently.”
+            “I obviously had to get one of the people working the polling location to help me...it was just kind of an extra step that I would have rather been able to do independently.”
           </h3>
         </a>
       </div>
     </aside>
-    <div class="spacer"></div>
+    <div class="spacer" aria-hidden="true"></div>
 
     <main class="container">
 
       <!-- row 3 -->
-      <div class="row">
-        <div class="twelve columns">
-          <section style="margin: 0">
-            <%= t.include("partials/_preFooter.html") %>
-          </section>
-        </div>
+      <div class="row" style="margin: 0">
+        <%= t.include("partials/_preFooter.html") %>
       </div>
 
       <div class="spacer"></div>

@@ -5,6 +5,22 @@
     <%= t.include("partials/_head.html", grunt.data.json) %>
 
     <title>ADA at 30: Accessibility in Pittsburgh</title>
+
+  <!-- BEGIN TWITTER SUMMARY CARD -->
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:title" content="Stories | ADA at 30: Accessibility in Pittsburgh">
+   <meta name="twitter:site" content="@PublicSourcePA">
+   <meta name="twitter:url" content="https://adapittsburgh.com/stories">
+   <meta name="twitter:image" content="https://adapittsburgh.com/assets/img/video_thumbnail.jpg">
+   <meta name="twitter:description" content="The Americans with Disabilities Act was signed into law on July 26, 1990. For this anniversary project, we set out to learn: How has the ADA changed life for Pittsburghers with disabilities? And what progress still needs to be made 30 years later? Here’s what we found out.">
+
+   <!-- Social sharing meta -->
+   <meta property="og:type" content="article">
+   <meta property="og:title" content="Stories">
+   <meta property="og:site_name" content="ADA at 30: Accessibility in Pittsburgh">
+   <meta property="og:url" content="https://adapittsburgh.com/stories">
+   <meta property="og:image" content="https://adapittsburgh.com/assets/img/video_thumbnail.jpg">
+   <meta property="og:description" content="The Americans with Disabilities Act was signed into law on July 26, 1990. For this anniversary project, we set out to learn: How has the ADA changed life for Pittsburghers with disabilities? And what progress still needs to be made 30 years later? Here’s what we found out.">
   </head>
 
   <body>
@@ -13,31 +29,31 @@
 
     <!-- BEGIN STORY GRID CONTENT -->
 
-    <main class="container" id="story-grid">
+    <main class="container" id="story-grid"><a name="main-content" aria-hidden="true"></a>
 
-      <div class="spacer"></div>
+      <div class="spacer" aria-hidden="true"></div>
 
       <!-- begin intro text -->
       <center id="intro">
         <h1>All Stories</h1>
       </center>
 
-      <div class="spacer"></div>
+      <div class="spacer" aria-hidden="true"></div>
 
       <!-- BEGIN STORIES -->
       <!-- row 1 -->
       <div class="row">
         <article class="one-half column">
-          <a href="voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" aria-label="links to full story">
-            <img src="assets/img/voting_1.JPG"
-            alt="Photograph of a row of ballot scanning machines."/>
+          <a href="voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" aria-label="Voters with disabilities are accustomed to obstacles. How will COVID-19 impact accessibility?">
+            <img src="assets/img/voting_1.JPG" alt="Photograph of a row of ballot scanning machines."/>
               <div class="index-headline">
                 Voters with disabilities are accustomed to obstacles. How will COVID-19 impact accessibility?
               </div>
               <div class="index-headline-border" style="width:25%"></div>
             </a>
             <div class="index-byline">Matt Petras</div>
-            <a href="faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects" aria-label="links to video, transcript, and accompanying story">
+
+            <a href="faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects" aria-label="Faces of the law: The Americans with Disabilities Act read by those it protects">
               <img src="assets/img/video_thumbnail.jpg" alt="A full screen video thumbnail. The thumbnail is of three rows of four squares, twelve total. Each square has one or a small group of people inside it. They are all individuals from Pittsburgh who have a variety of disabilities. Some are with their families. Some are signing. One has a bow and arrow, one has a cane, one is a a wheelchair, and one has a dog."/>
               <div class="index-headline">
                 Faces of the law: The Americans with Disabilities Act read by those it protects
@@ -46,8 +62,9 @@
             </a>
             <div class="index-byline">Jennifer Szweda Jordan</div>
         </article>
+
         <article class="one-half column">
-          <a href="podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas" aria-label="links to podcast and transcript">
+          <a href="podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas" aria-label="Podcast episode 1: How does accessibility in the Pittsburgh region compare to other areas?">
             <img src="assets/img/jsjpick_crawl.jpg" alt="Archival photograph of two disability rights activists from March 12, 1990. They are climbing the 83 steps up capitol hill as a demonstration to urge Congress to pass the ADA. The photograph is shot from a low angle on a lower step. In front, an activist is sitting and using their hands to push themself up the stairs backwards. In the background, another activist is crawling on his hands and knees. In the very background, a photographer is taking their photo. Photography copyright Tom Olin."/>
             <div class="index-headline">Podcast episode 1: How does accessibility in the Pittsburgh region compare to other areas?</div>
             <div class="index-headline-border" style="width:25%"></div>
@@ -55,7 +72,7 @@
         </article>
       </div>
 
-      <div class="spacer"></div>
+      <div class="spacer" aria-hidden="true"></div>
 
       <!-- row 2 -->
       <!--
@@ -152,8 +169,15 @@
     </main>
     <!-- END STORIES -->
 
-    <div class="spacer"></div>
+    <div class="spacer" aria-hidden="true"></div>
     <!-- END STORY GRID CONTENT -->
+
+    <!-- Contact form -->
+    <section role="contact form" style="margin-top: 2rem;">
+      <div class="inline">
+        <%= t.include("partials/_preFooter.html") %>
+      </div>
+    </section>
 
     <!-- Footer -->
     <%= t.include("partials/_footer.html") %>

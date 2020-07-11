@@ -1,17 +1,13 @@
-<footer role="contentinfo">
-  <section class="footer" align="center">
-    <%= typeof content != "undefined" ? content : "" %>
-    <a href="https://publicsource.org/" target="_blank">
-      <img src="../assets/img/ps-logo.svg" id="ps-logo" aria-label="link to publicsource website (opens in a new tab)"
-      alt="Public Source logo" />
-    </a>
-    <a href="https://www.unabridgedpress.com/" target="_blank">
-      <img src="../assets/img/UnPressLogoWhite.png" id="up-logo" aria-label="link to unabridged press website (opens in a new tab)"
-      alt="Unabridged Press logo"/>
-    </a>
-    <p style="margin-top: 1rem;">
-      Produced by PublicSource and Unabridged Press.<br />
-      This project has been made possible with the support of the FISA Foundation.
-    </p>
-  </section>
+<footer role="contentinfo" class="footer" align="center">
+  <%= typeof content != "undefined" ? content : "" %>
+  <a href="https://publicsource.org/" target="_blank" aria-label="PublicSource website (opens in a new tab)">
+    <img src="../assets/img/ps-logo.svg" id="ps-logo" alt="Public Source logo" />
+  </a>
+  <a href="https://www.unabridgedpress.com/" target="_blank" aria-label="Unabridged Press website (opens in a new tab)">
+    <img src="../assets/img/UnPressLogoWhite.png" id="up-logo" alt="Unabridged Press logo"/>
+  </a>
+  <p style="margin-top: 1rem;">
+    Produced by PublicSource and Unabridged Press.<br />
+    This project has been made possible with the support of the FISA Foundation.
+  </p>
 </footer>
