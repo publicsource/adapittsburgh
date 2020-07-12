@@ -228,7 +228,7 @@ text1: Faces of the law: The Americans with Disabilities Act read by those it pr
 url1: /faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects
 img2: assets/img/voting_1.jpg
 alt2: Photograph of a row of ballot scanning machines.
-text2: How does accessibility in the Pittsburgh region compare to other areas?
+text2: Voters with disabilities are accustomed to obstacles. How will COVID-19 impact accessibility?
 url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
 {}
 
