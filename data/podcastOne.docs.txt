@@ -38,7 +38,7 @@ Text: Hello.
 {.inline-img}
 Img: assets/img/Damitra.jpg
 Alt: WRITE ME
-Caption: Damitra Penny who often uses a wheelchair, was told she couldn't enter a section of a story because she'd knock things over. She says she didn't want to file an ADA lawsuit, just to shop. (Courtesy Photo)
+Caption: Damitra Penny, who often uses a wheelchair, was told she couldn't enter a section of a store because she'd knock things over. She says she just wanted to shop, not end up filing a lawsuit. (Courtesy photo)
 {}
 
 {.subhed}
@@ -85,7 +85,7 @@ Text: Okay. We can go back to Alisa for the worst.
 {}
 
 {.subhed}
-Text: Harrisburg: “Hot mess?”
+Text: Harrisburg: 'Hot mess?'
 {}
 
 {.transcript}
@@ -150,7 +150,7 @@ Text: Yeah, yeah. I don't have the beeping back up or baskets on it, but yes.
 {.inline-img}
 Img: assets/img/89.0-philly-canteven-1-sm.jpg
 Alt: WRITE ME
-Caption: In Philadelphia, the same year the ADA was passed, protestors from the national grass-roots disability rights group ADAPT demanded access to buses. Used by permission. Pittsburgh activist Alisa Grishman says getting around Philadelphia is still spotty--due to the condition of sidewalks. (Used with permission. © Tom Olin – Tom Olin Collection.)
+Caption: In Philadelphia, the same year the ADA was passed, protesters from the national grassroots disability rights group ADAPT demanded access to buses. Pittsburgh activist Alisa Grishman says getting around Philadelphia is still spotty due to the condition of sidewalks. (Used with permission. © Tom Olin – Tom Olin Collection.)
 {}
 
 {.subhed}
@@ -258,7 +258,7 @@ Text: But anyway, it took me about six hours I think, to get to the hotel after 
 {.inline-img}
 Img: assets/img/94.0-10-vegas-flag-sm.jpg
 Alt: WRITE ME
-Caption: While Las Vegas is considered very accessible today. it's still been subject to protests over the years by ADAPT, an active disability rights organization founded in 1978. Dozens of ADAPT members at this protest action have hung a wheelchair on a cross and carry signs and an American flag with a wheelchair outlined in stars. (Used with permission. © Tom Olin – Tom Olin Collection.)
+Caption: While Las Vegas is considered very accessible today, it's still been subject to protests over the years by ADAPT, a disability rights organization founded in 1978. Dozens of ADAPT members at this protest action hung a wheelchair on a cross and carried an American flag with a wheelchair outlined in stars. (Used with permission. © Tom Olin – Tom Olin Collection.)
 {}
 
 {.subhed}
