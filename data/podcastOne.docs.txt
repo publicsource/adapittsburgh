@@ -35,8 +35,14 @@ Speaker: ALISA GRISHMAN (01:08)
 Text: Hello.
 {}
 
+{.inline-img}
+Img: assets/img/Damitra.jpg
+Alt: WRITE ME
+Caption: Damitra Penny who often uses a wheelchair, was told she couldn't enter a section of a story because she'd knock things over. She says she didn't want to file an ADA lawsuit, just to shop. (Courtesy Photo)
+{}
+
 {.subhed}
-Text: Who owns the sidewalks? 
+Text: Who owns the sidewalks?
 {}
 
 {.transcript}
@@ -98,7 +104,7 @@ Text: The trouble with Switzerland
 
 {.transcript}
 Speaker: JOSIE BADGER (04:51)
-Text: Oh, shucks. I think we can look at it a couple different ways. When we look at America, a lot of older cities are much more difficult and that's not an excuse. I think that it is believed that there's a grandfather clause and there's no such thing anymore to the ADA. But to be honest, looking globally when I went to Switzerland, the accessibility was horrendous and one of the reasons is that making any building or transportation accessible is by choice. It is not required. So curb cuts, some of them exist, some don't. So on transportation you can get on a train, but not get off. It's a tricky situation. But I think that ... well now when I went there I used a power scooter and scooters are not something that's used in Europe. So they just didn't know what to do with me. 
+Text: Oh, shucks. I think we can look at it a couple different ways. When we look at America, a lot of older cities are much more difficult and that's not an excuse. I think that it is believed that there's a grandfather clause and there's no such thing anymore to the ADA. But to be honest, looking globally when I went to Switzerland, the accessibility was horrendous and one of the reasons is that making any building or transportation accessible is by choice. It is not required. So curb cuts, some of them exist, some don't. So on transportation you can get on a train, but not get off. It's a tricky situation. But I think that ... well now when I went there I used a power scooter and scooters are not something that's used in Europe. So they just didn't know what to do with me.
 {}
 
 {.transcript}
@@ -142,9 +148,9 @@ Text: Yeah, yeah. I don't have the beeping back up or baskets on it, but yes.
 {}
 
 {.inline-img}
-Img: assets/img/josie.png
+Img: assets/img/89.0-philly-canteven-1-sm.jpg
 Alt: WRITE ME
-Caption: Healthcare ethicist Josie Badger recording the podcast via Zoom. (Courtesy Photo)
+Caption: In Philadelphia, the same year the ADA was passed, protestors from the national grass-roots disability rights group ADAPT demanded access to buses. Used by permission. Pittsburgh activist Alisa Grishman says getting around Philadelphia is still spotty--due to the condition of sidewalks. (Used with permission. © Tom Olin – Tom Olin Collection.)
 {}
 
 {.subhed}
@@ -249,6 +255,12 @@ Speaker: JON DUVALL (14:01)
 Text: But anyway, it took me about six hours I think, to get to the hotel after calling every place that I could think of. Basically everyone said that all they had was paratransit there and you have to reserve that days before. So I ended up taking a bus over to their rail train station thing and then got to within about a mile from the hotel and then tried to take the sidewalks the rest of the way. It just so happened that the hotel I was staying at, it didn't have sidewalks that went to it. Comparing that to Pittsburgh, obviously I'm very happy that Pittsburgh does have accessible taxis, I think in all of their major taxi companies here in the city. So that, that's a positive related to Pittsburgh.
 {}
 
+{.inline-img}
+Img: assets/img/94.0-10-vegas-flag-sm.jpg
+Alt: WRITE ME
+Caption: While Las Vegas is considered very accessible today. it's still been subject to protests over the years by ADAPT, an active disability rights organization founded in 1978. Dozens of ADAPT members at this protest action have hung a wheelchair on a cross and carry signs and an American flag with a wheelchair outlined in stars. (Used with permission. © Tom Olin – Tom Olin Collection.)
+{}
+
 {.subhed}
 Text: Accessible taxicabs rare and costly
 {}
@@ -260,7 +272,7 @@ Text: I want to add to what Jonathan mentioned was, that in most towns and citie
 
 {.transcript}
 Speaker: TONY GANZER (15:29)
-Text: I wonder if we can compare that to Pittsburgh, kind of bring it back. I went to wheelchairtravel.org—they have ratings of different cities and one of the things they said about Pittsburgh taxis: long wait times. If you need it in the morning or the night time, you would need 12 to 24 hours notice. I wonder if that's your 
+Text: I wonder if we can compare that to Pittsburgh, kind of bring it back. I went to wheelchairtravel.org—they have ratings of different cities and one of the things they said about Pittsburgh taxis: long wait times. If you need it in the morning or the night time, you would need 12 to 24 hours notice. I wonder if that's your
 experience too, Alisa, maybe?
 {}
 
@@ -333,12 +345,6 @@ Speaker: DAMITRA PENNY (17:57)
 Text: I think he thought I wanted money from him and I really didn't. I just want to be treated like everybody else.
 {}
 
-{.inline-img}
-Img: assets/img/podcast_2.png
-Alt: WRITE ME
-Caption: Pittsburgh disability advocate Alisa Grishman tries to get back on the sidewalk after a closed portion forced her to ride on the street. (Photo by Alex Collinger)
-{}
-
 {.subhed}
 Text: What city and county governments can and can’t do
 {}
@@ -372,7 +378,13 @@ Text: And something to keep in mind about the ADA in general is that a lot of re
 Speaker: JOSIE BADGER (19:44)
 Text: ADA coordinators are really important and unfortunately most of what they are able to do is that they can provide feedback. They can highlight issues. They can bring people together, but there's not necessarily a structured enforcement to it. That's partially because of how the ADA was written. It was written to be enforced by individuals with disabilities through the judicial system. And so that means people with disabilities generally have to self advocate and when necessary use the legal system to bring about changes, which sometimes causes some division between businesses and people with disabilities and creating a fear of people with disabilities concerning lawsuits. Instead of doing it because they have to, because it's the law, they do it because they're afraid of being sued.
 {}
- 
+
+{.inline-img}
+Img: assets/img/council.png
+Alt: Screen capture of a eight people video chatting on Zoom. They’re each in their homes. They’re a variety of ages.
+Caption: The Allegheny County and City of Pittsburgh Disability Task Force met by Zoom for the first time in June and plans to continue online meetings as an accessibility measure.
+{}
+
 {.subhed}
 Text: Getting to the ballot box: it’s getting better
 {}
@@ -457,6 +469,12 @@ Speaker: JOSIE BADGER (28:10)
 Text: So we'll just share your cell phone number after this. Kidding.
 {}
 
+{.inline-img}
+Img: assets/img/josie.png
+Alt: Screen capture of a woman on video chat wearing a headset with microphone.
+Caption: <div id="center-me">Healthcare ethicist Josie Badger recording the podcast via Zoom. (Courtesy Photo)</div>
+{}
+
 {.transcript}
 Speaker: CAYLIN SNYDER (28:16)
 Text: I would love to chat with everyone. The more people the better. I'm just one person.
@@ -468,10 +486,7 @@ Text: The small roads to change
 
 {.transcript}
 Speaker: JENNIFER SZWEDA JORDAN (28:33)
-Text: So why is accessibility hard to achieve? Well, business owners, for example, just might not want to change—many say they don't have the resources for, say, a ramp. When that happens, a person with a disability—or maybe a nonprofit that represents individual—has to argue for accommodations. Many times, that comes to filing lawsuits. Our next episode features Jay Hornack, a University of Pittsburgh law school professor. When the ADA was passed, it changed the course of his legal career. I hope you'll listen to that and explore all of our work at adapittsburgh.com. 
-
-Thanks to Josie Badger and Alisa Grishman. This program's producer is Tony Ganzer. I'm Jennifer Szweda Jordan with Unabridged Press. This project, ADA at 30: Accessibility in Pittsburgh is produced with PublicSource, with support from the FISA Foundation and assistance from the Center for Media Innovation at Point Park University. Thanks for listening.
+Text: So why is accessibility hard to achieve? Well, business owners, for example, just might not want to change—many say they don't have the resources for, say, a ramp. When that happens, a person with a disability—or maybe a nonprofit that represents individual—has to argue for accommodations. Many times, that comes to filing lawsuits. Our next episode features Jay Hornack, a University of Pittsburgh law school professor. When the ADA was passed, it changed the course of his legal career. I hope you'll listen to that and explore all of our work at adapittsburgh.com. Thanks to Josie Badger and Alisa Grishman. This program's producer is Tony Ganzer. I'm Jennifer Szweda Jordan with Unabridged Press. This project, ADA at 30: Accessibility in Pittsburgh is produced with PublicSource, with support from the FISA Foundation and assistance from the Center for Media Innovation at Point Park University. Thanks for listening.
 {}
 
 []
-
