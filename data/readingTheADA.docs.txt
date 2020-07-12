@@ -29,7 +29,7 @@ For this project, a beauty queen, two accomplished parathletes, a Steelers fan a
 
 <div style="padding:52.73% 0 0 0;position:relative;margin-bottom:-1rem;"><iframe src="https://player.vimeo.com/video/437290045?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 {.inline-img}
-caption: [Video is silent.] Eric "Trainwreck" Burkett has traveled around the world competing in archery and won first place in a military Paralympic competition in 2014. He lost his legs after a plane crash while he was in the Marines. The ADA says the "nation's proper goals" for people with disabilities includes "full participation" in a society that previously discriminated against people with disabilities in recreation and many other areas. (Video by Alex Collinger)</span>
+caption: Eric "Trainwreck" Burkett has traveled around the world competing in archery. He lost his legs after a plane crash while he was in the Marines. The ADA says the "nation's proper goals" for people with disabilities include "full participation" in society in many areas, including recreation. [Note: The video is mostly silent.] (Video by Alex Collinger)
 {}
 
 
