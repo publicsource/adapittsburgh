@@ -17,7 +17,7 @@ Text: And she asked me, what did I want from this? And I said, "Well, I just wan
 
 {.transcript}
 Speaker: JENNIFER SZWEDA JORDAN (00:22)
-Text: The Americans with Disabilities Act of 1990 was supposed to make getting around easy and guarantee basic civil rights for people with any disability. And sometimes it works, but not always. For the ADA's 30th anniversary, PublicSource and Unabridged Press explore how the act impacts life today. Our project is called ADA at 30: Accessibility in Pittsburgh. In this podcast, we're focusing on physical accessibility. We're talking with national disability advocates, Alisa Grishman and Josie Badger. They live in greater Pittsburgh and both use wheelchairs. Producer Tony Ganzer is here too. I'm Jennifer Szweda Jordan of Unabridged Press. Hi, everyone.
+Text: The Americans with Disabilities Act of 1990 was supposed to make getting around easy and guarantee basic civil rights for people with any disability. And sometimes it works, <a href="https://www.washingtonpost.com/local/trafficandcommuting/nearly-30-years-after-ada-nations-transit-agencies-report-successes-and-shortfalls/2020/06/25/76e102d8-af22-11ea-8758-bfd1d045525a_story.html8-bfd1d045525a_story.html" target="_blank" aria-label="but not always (opens in a new tab)">but not always.</a> For the ADA's 30th anniversary, PublicSource and Unabridged Press explore how the act impacts life today. Our project is called ADA at 30: Accessibility in Pittsburgh. In this podcast, we're focusing on physical accessibility. We're talking with national disability advocates, Alisa Grishman and Josie Badger. They live in greater Pittsburgh and both use wheelchairs. Producer Tony Ganzer is here too. I'm Jennifer Szweda Jordan of Unabridged Press. Hi, everyone.
 {}
 
 {.transcript}
@@ -227,7 +227,7 @@ Text: Leaving for Las Vegas (and Dallas)
 
 {.transcript}
 Speaker: ALISA GRISHMAN (11:59)
-Text: Can I say, I am genuinely surprised that we haven't heard Las Vegas on the very accessible towns. I would have put that except I haven't personally been, but my boyfriend has been, and it is 100% completely designed to be a tourist town, but especially catering to a lot of older adults. He talked about how everything, everything is designed to be accessible because there are so many people who go there who use assistive devices. And so it's interesting how tourism keeps coming up as being so important for driving accessibility.
+Text: Can I say, I am genuinely surprised that we haven't heard <a href="https://www.latimes.com/travel/story/2020-02-04/vegas-wheelchair-users-good-access" target="_blank" aria-label="Las Vegas (opens in a new tab)">Las Vegas</a> on the very accessible towns. I would have put that except I haven't personally been, but my boyfriend has been, and it is 100% completely designed to be a tourist town, but especially catering to a lot of older adults. He talked about how everything, everything is designed to be accessible because there are so many people who go there who use assistive devices. And so it's interesting how tourism keeps coming up as being so important for driving accessibility.
 {}
 
 {.transcript}
@@ -272,7 +272,7 @@ Text: I want to add to what Jonathan mentioned was, that in most towns and citie
 
 {.transcript}
 Speaker: TONY GANZER (15:29)
-Text: I wonder if we can compare that to Pittsburgh, kind of bring it back. I went to wheelchairtravel.org—they have ratings of different cities and one of the things they said about Pittsburgh taxis: long wait times. If you need it in the morning or the night time, you would need 12 to 24 hours notice. I wonder if that's your
+Text: I wonder if we can compare that to Pittsburgh, kind of bring it back. I went to <a href="https://www.latimes.com/travel/story/2020-02-04/vegas-wheelchair-users-good-access" target="_blank" aria-label="wheelchairtravel.org (opens in a new tab)">wheelchairtravel.org</a>—they have ratings of different cities and one of the things they said about Pittsburgh taxis: long wait times. If you need it in the morning or the night time, you would need 12 to 24 hours notice. I wonder if that's your
 experience too, Alisa, maybe?
 {}
 
@@ -376,7 +376,7 @@ Text: And something to keep in mind about the ADA in general is that a lot of re
 
 {.transcript}
 Speaker: JOSIE BADGER (19:44)
-Text: ADA coordinators are really important and unfortunately most of what they are able to do is that they can provide feedback. They can highlight issues. They can bring people together, but there's not necessarily a structured enforcement to it. That's partially because of how the ADA was written. It was written to be enforced by individuals with disabilities through the judicial system. And so that means people with disabilities generally have to self advocate and when necessary use the legal system to bring about changes, which sometimes causes some division between businesses and people with disabilities and creating a fear of people with disabilities concerning lawsuits. Instead of doing it because they have to, because it's the law, they do it because they're afraid of being sued.
+Text: ADA coordinators are really important and unfortunately most of what they are able to do is that they can provide feedback. They can highlight issues. <a href="https://pittsburghpa.gov/dcp/cctfd" target="_blank" aria-label="They can bring people together (opens in a new tab)">They can bring people together,</a> but there's not necessarily a structured enforcement to it. That's partially because of how the ADA was written. It was written to be enforced by individuals with disabilities through the judicial system. And so that means people with disabilities generally have to self advocate and when necessary use the legal system to bring about changes, which sometimes causes some division between businesses and people with disabilities and creating a fear of people with disabilities concerning lawsuits. Instead of doing it because they have to, because it's the law, they do it because they're afraid of being sued.
 {}
 
 {.inline-img}
@@ -391,7 +391,7 @@ Text: Getting to the ballot box: it’s getting better
 
 {.transcript}
 Speaker: JENNIFER SZWEDA JORDAN (20:51)
-Text: 2020 is an election year, of course, and voting access is required under the ADA. We talked about that with Caylin Snyder, ADA Coordinator for Allegheny County.
+Text: 2020 is an election year, of course, and <a href="/voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" target="_blank" aria-label="voting access (opens in a new tab)">voting access</a> is required under the ADA. We talked about that with Caylin Snyder, ADA Coordinator for Allegheny County.
 {}
 
 {.transcript}
