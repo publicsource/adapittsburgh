@@ -40,4 +40,15 @@ After watching people reading the ADA and hearing their stories, the team was le
 <i>(Note</i><i>⁠—</i> <i>After the killing of George Floyd at the hands of a Minneapolis police officer and ensuing protests against racism and police brutality, we chose not to use excerpts of the ADA that describe racism and other kinds of discrimination as bygones.)</i>
 
 <i>Reach Jennifer Szweda Jordan at</i> <i><a href="mailto:jennifer@unabridgedpress.com" aria-label="link to email jennifer szweda jordan (opens your email application)">jennifer@unabridgedpress.com</a></i><i>.</i>
+
+{.related}
+img1: assets/img/voting_1.jpg
+alt1: Photograph of a row of ballot scanning machines.
+text1: How does accessibility in the Pittsburgh region compare to other areas?
+url1: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+img2: assets/img/jsjpick_crawl_org.jpg
+alt2: Black and white icon of two disability rights activists climbing the steps up capital hill.
+text2: How does accessibility in the Pittsburgh region compare to other areas?
+url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+{}
 []

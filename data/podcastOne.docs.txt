@@ -221,6 +221,17 @@ Speaker: JOSIE BADGER (11:36)
 Text: I am. So I live about an hour north of the city and what kind of stinks is I can't even get out of my driveway because we don't have sidewalks and the road has been cut down so much that I get stuck. So yes, I echo, rural and even small towns.
 {}
 
+{.related}
+img1: assets/img/video_thumbnail.jpg
+alt1: Composite icon of several head on shots of people with different disabilities.
+text1: Faces of the law: The Americans with Disabilities Act read by those it protects
+url1: /faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects
+img2: assets/img/voting_1.jpg
+alt2: Photograph of a row of ballot scanning machines.
+text2: How does accessibility in the Pittsburgh region compare to other areas?
+url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+{}
+
 {.subhed}
 Text: Leaving for Las Vegas (and Dallas)
 {}

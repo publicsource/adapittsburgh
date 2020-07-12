@@ -15,17 +15,6 @@ Even before the pandemic, accessibility has long been an issue at polling places
 
 A federal survey from 2016 found that about 60% of 178 polling places examined by the Government Accountability Office had at least one potential impediment for voters with disabilities, such as lack of signs indicating accessible paths or steep ramps.
 
-{.related}
-img1: assets/img/video_thumbnail.jpg
-alt1: WRITE ME
-text1: Faces of the law: The Americans with Disabilities Act read by those it protects
-url1: /faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects
-img2: assets/img/jsjpick_crawl_org.jpg
-alt2: WRITE ME
-text2: How does accessibility in the Pittsburgh region compare to other areas?
-url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
-{}
-
 Nearly 14% of Pennsylvanians have a disability, a percentage slightly higher than the national rate. And in national elections, eligible voters with disabilities voted at a lower rate than individuals without a disability, even as turnout surged in the 2018 midterms. According to a Rutgers University study, 49.3% of eligible voters with a disability voted nationwide that election, compared to 54% of eligible voters without a disability.
 
 State officials have said they’re balancing how to meet the needs of accessible voting for people with disabilities while maintaining secure elections.
@@ -115,6 +104,17 @@ The next election, she noticed they installed a ramp her wheelchair could climb 
 <i>Matt Petras is a freelance reporter based in the Pittsburgh area as well as a writing and journalism tutor for Point Park University. He can be reached at</i> <i><a href="mailto:matt456p@gmail.com" aria-label="link to email matt petras (opens your email application)">matt456p@gmail.com</a></i> <i>or on Twitter</i> <i><a href="https://twitter.com/mattapetras" target="_blank" aria-label="opens matt petras's twitter (opens in a new tab)">@mattApetras</a></i><i>.</i>
 
 <i>This story was fact-checked by Erin West.</i>
+
+{.related}
+img1: assets/img/video_thumbnail.jpg
+alt1: Composite icon of several head on shots of people with different disabilities.
+text1: Faces of the law: The Americans with Disabilities Act read by those it protects
+url1: /faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-by-those-it-protects
+img2: assets/img/jsjpick_crawl_org.jpg
+alt2: Black and white icon of two disability rights activists climbing the steps up capital hill.
+text2: How does accessibility in the Pittsburgh region compare to other areas?
+url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+{}
 
 <hr>
 
