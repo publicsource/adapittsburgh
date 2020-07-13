@@ -1,10 +1,6 @@
 <!doctype html>
 <html lang="en-US">
   <head>
-    <!-- imports all header info -->
-    <%= t.include("partials/_head.html", grunt.data.json) %>
-    <title>How does accessibility in the Pittsburgh region compare to other areas? | ADA at 30: Accessibility in Pittsburgh</title>
-
     <!-- BEGIN TWITTER SUMMARY CARD -->
    <meta name="twitter:card" content="summary_large_image">
    <meta name="twitter:title" content="How does accessibility in the Pittsburgh region compare to other areas? | ADA at 30: Accessibility in Pittsburgh">
@@ -20,6 +16,10 @@
    <meta property="og:url" content="https://adapittsburgh.com/podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas">
    <meta property="og:image" content="https://adapittsburgh.com/assets/img/podcast_2.png">
    <meta property="og:description" content="Podcast discussing accessibility in Pittsburgh as compared to other areas.">
+
+    <!-- imports all header info -->
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <title>How does accessibility in the Pittsburgh region compare to other areas? | ADA at 30: Accessibility in Pittsburgh</title>
 
     <!-- imports main stylesheet -->
     <link rel="stylesheet" type="text/css" href="style.css">
