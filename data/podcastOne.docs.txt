@@ -229,7 +229,7 @@ url1: /faces-of-the-law-the-americans-with-disabilities-act-in-pittsburgh-read-b
 img2: assets/img/voting_1.jpg
 alt2: Photograph of a row of ballot scanning machines.
 text2: Voters with disabilities are accustomed to obstacles. How will COVID-19 impact accessibility?
-url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+url2: /voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility
 {}
 
 {.subhed}

@@ -48,7 +48,7 @@ After watching people reading the ADA and hearing their stories, the team was le
 img1: assets/img/voting_1.jpg
 alt1: Photograph of a row of ballot scanning machines.
 text1: Voters with disabilities are accustomed to obstacles. How will COVID-19 impact accessibility?
-url1: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+url1: /voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility
 img2: assets/img/jsjpick_crawl_org.jpg
 alt2: Black and white icon of two disability rights activists climbing the steps up capital hill.
 text2: How does accessibility in the Pittsburgh region compare to other areas?
