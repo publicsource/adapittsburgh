@@ -11,7 +11,7 @@ She would not have been able to complete the ballot independently, she said. Fol
 text: “A federal survey from 2016 found that about 60% of 178 polling places examined by the Government Accountability Office had at least one potential impediment for voters with disabilities, such as lack of signs indicating accessible paths or steep ramps.”
 {}
 
-Even before the pandemic, accessibility has long been an issue at polling places. Some local voters with disabilities note past problems with ramps and voting machines that required assistance to use. While all eligible Pennsylvanians can now vote by mail, <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="opens related article on publicsource's website (opens in a new tab)">hiccups during the primary</a> meant some voters still had to show up in person or not have their votes counted. Meanwhile, the pandemic means voters with disabilities could be risking their lives by going out, even if voting has gone smoothly in the past.
+Even before the pandemic, accessibility has long been an issue at polling places. Some local voters with disabilities note past problems with ramps and voting machines that required assistance to use. While all eligible Pennsylvanians can now vote by mail, <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="hiccups during the primary (opens in a new tab)">hiccups during the primary</a> meant some voters still had to show up in person or not have their votes counted. Meanwhile, the pandemic means voters with disabilities could be risking their lives by going out, even if voting has gone smoothly in the past.
 
 A federal survey from 2016 found that about 60% of 178 polling places examined by the Government Accountability Office had at least one potential impediment for voters with disabilities, such as lack of signs indicating accessible paths or steep ramps.
 
@@ -84,7 +84,7 @@ text: The path forward
 David Hale, a 40-year-old McKees Rocks resident who uses a wheelchair, plans on voting in the general election in person. He’s not convinced voting by mail is foolproof.
 
 {.interjection}
-text: See also <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="link to related article on publicsource's website (opens in a new tab)">Allegheny County voters identify 5 issues to address before November presidential election</a>
+text: See also <a href="https://www.publicsource.org/allegheny-county-voters-identify-5-issues-to-address-before-november-presidential-election/" target="_blank" aria-label="Allegheny County voters identify 5 issues to address before November presidential election (opens in a new tab)">Allegheny County voters identify 5 issues to address before November presidential election</a>
 {}
 
 “There’s things that can go wrong with sending it in the mail versus being there, going down, and going through the process,” Hale said. “I’d rather go through the process of voting, of using the machines and everything, instead of sending it off. There’s more trust there.”
@@ -101,7 +101,7 @@ The next election, she noticed they installed a ramp her wheelchair could climb 
 
 “Absolute props to them for doing that and stepping up,” Grishman said.
 
-<i>Matt Petras is a freelance reporter based in the Pittsburgh area as well as a writing and journalism tutor for Point Park University. He can be reached at</i> <i><a href="mailto:matt456p@gmail.com" aria-label="link to email matt petras (opens your email application)">matt456p@gmail.com</a></i> <i>or on Twitter</i> <i><a href="https://twitter.com/mattapetras" target="_blank" aria-label="opens matt petras's twitter (opens in a new tab)">@mattApetras</a></i><i>.</i>
+<i>Matt Petras is a freelance reporter based in the Pittsburgh area as well as a writing and journalism tutor for Point Park University. He can be reached at</i> <i><a href="mailto:matt456p@gmail.com" aria-label="matt456@gmail.com (opens your email application)">matt456p@gmail.com</a></i> <i>or on Twitter</i> <i><a href="https://twitter.com/mattapetras" target="_blank" aria-label="@mattApetras (opens in a new tab)">@mattApetras</a></i><i>.</i>
 
 <i>This story was fact-checked by Erin West.</i>
 

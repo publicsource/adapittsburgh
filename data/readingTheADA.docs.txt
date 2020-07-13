@@ -3,7 +3,7 @@ Equality. Independence. Self-sufficiency.
 
 These are key goals for people covered by the Americans with Disabilities Act of 1990. The ADA affirmed that this is what our country should aim to achieve for people who are blind, deaf, unable to speak, using wheelchairs, living with autism, bipolar disorder or myriad other disabilities.
 
-Then-President George H. W. Bush, with bipartisan support in the Congress, signed this act and <a href="https://www.archives.gov/research/americans-with-disabilities/transcriptions/naid-6037493-statement-by-the-president-americans-with-disabilities-act-of-1990.html" target="_blank" aria-label="opens a transcript of president george h.w. bush's statement after signing the ADA in 1990 (opens in a new tab)">affirmed the civil rights</a> of people with disabilities.
+Then-President George H. W. Bush, with bipartisan support in the Congress, signed this act and <a href="https://www.archives.gov/research/americans-with-disabilities/transcriptions/naid-6037493-statement-by-the-president-americans-with-disabilities-act-of-1990.html" target="_blank" aria-label="affirmed the civil rights (opens in a new tab)">affirmed the civil rights</a> of people with disabilities.
 
 {.inline-img}
 img: assets/img/90-0726-ada-signing-sm.jpg
@@ -15,7 +15,7 @@ At that time, 30 years ago, Allegheny County’s buses had no wheelchair lifts �
 
 Now at a bus stop, you’ll often see the driver lower a ramp for a person in a wheelchair. People with intellectual disabilities are essential workers at grocery stores. Stoplights beep so people who are blind can safely cross intersections.
 
-And yet the promise of <a href="https://www.ada.gov/pubs/adastatute08.htm" target="_blank" aria-label="the ADA, link to the full text of the ADA (opens in new tab)">the ADA</a> is not fully realized. On many Pittsburgh streets, you'll see a single step at a door that stops people in wheelchairs from getting in. Many people who are blind can’t easily navigate the websites that many of us rely on for every facet of life. And negative attitudes toward people with disabilities still exist; several have shared that while many physical accommodations are made, some store owners or internet trolls still isolate them—intentionally or without thinking of it.
+And yet the promise of <a href="https://www.ada.gov/pubs/adastatute08.htm" target="_blank" aria-label="the ADA (opens in new tab)">the ADA</a> is not fully realized. On many Pittsburgh streets, you'll see a single step at a door that stops people in wheelchairs from getting in. Many people who are blind can’t easily navigate the websites that many of us rely on for every facet of life. And negative attitudes toward people with disabilities still exist; several have shared that while many physical accommodations are made, some store owners or internet trolls still isolate them—intentionally or without thinking of it.
 
 {.inline-img}
 img: assets/img/sidewalk_still.jpg
@@ -27,19 +27,22 @@ caption: Crosswalks in the middle of long streets aren't always accessible to pe
 
 For this project, a beauty queen, two accomplished parathletes, a Steelers fan and 10 other people from our region—all of whom have disabilities—read a passage from the ADA. They took time off work and traveled to downtown Pittsburgh from all over the region to sit under studio lights, look directly into the camera and read both unpleasant truths and aspirations. Some stayed and shared their personal stories—some of which are included in companion podcasts that will run throughout the two weeks of this project.
 
-<div style="padding:52.73% 0 0 0;position:relative;margin-bottom:-1rem;"><iframe src="https://player.vimeo.com/video/437290045?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<aside style="padding:52.73% 0 0 0;position:relative;margin-bottom:-1rem;" title="Inline video" aria-label="embedded video of a man shooting a bow and arrow at a target">
+  iframe src="https://player.vimeo.com/video/437290045?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen name="archery b roll footage" title="archery b roll footage"></iframe>
+</aside>
+<script src="https://player.vimeo.com/api/player.js"></script>
 {.inline-img}
 caption: Eric "Trainwreck" Burkett has traveled around the world competing in archery. He lost his legs after a plane crash while he was in the Marines. The ADA says the "nation's proper goals" for people with disabilities include "full participation" in society in many areas, including recreation. [Note: The video is mostly silent.] (Video by Alex Collinger)
 {}
 
 
-The on-camera readers were filmed by an inclusive recording crew. Three on the crew support people with intellectual disabilities in group homes. A trio of producers from the Joey Travolta/Arts for Autism Film Camp were employed in developing the concept and in production. Alex Collinger, who was first trained at the camp and then became an employee, was the lead videographer. This team was brought together by the <a href="https://www.allabilitiesmedia.org/" target="_blank" aria-label="All-Abilities Media Project, link to the project website (opens in a new tab)">All-Abilities Media Project</a> in which people with disabilities receive production training and paid experience in media skills. It’s a collaboration between Unabridged Press housed at the Center for Media Innovation at Point Park University. PublicSource visual producer Ryan Loew also helped to consult and work on the video.
+The on-camera readers were filmed by an inclusive recording crew. Three on the crew support people with intellectual disabilities in group homes. A trio of producers from the Joey Travolta/Arts for Autism Film Camp were employed in developing the concept and in production. Alex Collinger, who was first trained at the camp and then became an employee, was the lead videographer. This team was brought together by the <a href="https://www.allabilitiesmedia.org/" target="_blank" aria-label="All-Abilities Media Project (opens in a new tab)">All-Abilities Media Project</a> in which people with disabilities receive production training and paid experience in media skills. It’s a collaboration between Unabridged Press housed at the Center for Media Innovation at Point Park University. PublicSource visual producer Ryan Loew also helped to consult and work on the video.
 
 After watching people reading the ADA and hearing their stories, the team was left with many questions. Will we ever achieve the spirit and the letter of this law? And who loses if we don’t? The people in this video and affiliated podcasts and writing offer a glimpse.
 
 <i>(Note</i><i>⁠—</i> <i>After the killing of George Floyd at the hands of a Minneapolis police officer and ensuing protests against racism and police brutality, we chose not to use excerpts of the ADA that describe racism and other kinds of discrimination as bygones.)</i>
 
-<i>Reach Jennifer Szweda Jordan at</i> <i><a href="mailto:jennifer@unabridgedpress.com" aria-label="link to email jennifer szweda jordan (opens your email application)">jennifer@unabridgedpress.com</a></i><i>.</i>
+<i>Reach Jennifer Szweda Jordan at</i> <i><a href="mailto:jennifer@unabridgedpress.com" aria-label="jennifer@unabridgedpress.com (opens your email application)">jennifer@unabridgedpress.com</a></i><i>.</i>
 
 {.related}
 img1: assets/img/voting_1.jpg

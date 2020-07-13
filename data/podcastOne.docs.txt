@@ -37,7 +37,7 @@ Text: Hello.
 
 {.inline-img}
 Img: assets/img/Damitra.jpg
-Alt: WRITE ME
+Alt: Photograph of a black woman sitting in the driver's seat of a red car. She's smiling and wearing a brace on her left foot.
 Caption: Damitra Penny, who often uses a wheelchair, was told she couldn't enter a section of a store because she'd knock things over. She says she just wanted to shop, not end up filing a lawsuit. (Courtesy photo)
 {}
 
@@ -149,7 +149,7 @@ Text: Yeah, yeah. I don't have the beeping back up or baskets on it, but yes.
 
 {.inline-img}
 Img: assets/img/89.0-philly-canteven-1-sm.jpg
-Alt: WRITE ME
+Alt: Black and white photo of a group of disability rights activists holding signs. Many are in wheelchairs. In the foreground, a man has a sign on the back of his wheelchair that says I can't even get to the back of the bus.
 Caption: In Philadelphia, the same year the ADA was passed, protesters from the national grassroots disability rights group ADAPT demanded access to buses. Pittsburgh activist Alisa Grishman says getting around Philadelphia is still spotty due to the condition of sidewalks. (Used with permission. © Tom Olin – Tom Olin Collection.)
 {}
 
@@ -268,7 +268,7 @@ Text: But anyway, it took me about six hours I think, to get to the hotel after 
 
 {.inline-img}
 Img: assets/img/94.0-10-vegas-flag-sm.jpg
-Alt: WRITE ME
+Alt: Black and white photo of a large group of activists. One is holding a large American flag. Where the fifty stars usually are, there's an outline of the accessibility symbol made of stars.
 Caption: While Las Vegas is considered very accessible today, it's still been subject to protests over the years by ADAPT, a disability rights organization founded in 1978. Dozens of ADAPT members at this protest action hung a wheelchair on a cross and carried an American flag with a wheelchair outlined in stars. (Used with permission. © Tom Olin – Tom Olin Collection.)
 {}
 

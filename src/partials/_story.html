@@ -12,7 +12,7 @@
     <h3 class="subhed offset-by-two columns" id="subhead">
       <%= section.value.text %>
     </h3>
-    <div style="clear:both"></div>
+    <div style="clear:both" aria-hidden="true"></div>
 
   <!-- Pullquote -->
   <% }else if(section.type == "pullquote"){ %>
@@ -67,9 +67,9 @@
         <div class="speaker"><%= section.value.speaker %>:</div>
         <div class="transcript-text"><%= section.value.text %></div>
       </div>
-      <div style="clear:both"></div>
+      <div style="clear:both" aria-hidden="true"></div>
 
   <% } %>
   <% }); %>
-  <div class="spacer"></div>
+  <div class="spacer" aria-hidden="true"></div>
 </main>
