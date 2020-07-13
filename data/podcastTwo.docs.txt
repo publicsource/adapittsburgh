@@ -1,0 +1,205 @@
+[+sections]
+{.transcript}
+Speaker: JENNIFER SZWEDA JORDAN (00:00)
+Text: Independence Day 1990 was followed three weeks later by another independence day. That's how President George H. W. Bush put it as he signed the Americans with Disabilities Act 30 years ago on July 26.
+{}
+
+{.transcript}
+Speaker: TONY GANZER (00:18)
+Text: We've now had 30 years to see how the act has empowered and made more inclusive our communities, but we've also had 30 years to see where the act may have fallen short.
+{}
+
+{.transcript}
+Speaker: JENNIFER SZWEDA JORDAN (00:28)
+Text: I'm Jennifer Szweda Jordan. Today's episode of ADA at 30: Accessibility in Pittsburgh is brought to you by PublicSource and Unabridged Press.
+{}
+
+{.transcript}
+Speaker: TONY GANZER (00:39)
+Text: I'm Tony Ganzer here with disability advocates Josie Badger and Alisa Grishman. Hi there.
+{}
+
+{.transcript}
+Speaker: ALISA GRISHMAN (00:44)
+Text: Hello.
+{}
+
+{.transcript}
+Speaker: JOSIE BADGER (00:45)
+Text: Hi.
+{}
+
+{.transcript}
+Speaker: TONY GANZER (00:47)
+Text: Thanks so much for being here. Also joining us today is Jay Hornack. He's an attorney and adjunct professor of disability discrimination law at the University of Pittsburgh School of Law. Hi Jay. Thanks for being here.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (00:59)
+Text: Good to be here, Tony
+{}.
+
+{.transcript}
+Speaker: TONY GANZER (01:00)
+Text: Josie, maybe you want to kick us off here?
+{}
+
+{.transcript}
+Speaker: JOSIE BADGER (01:03)
+Text: Absolutely. Jay, I have no idea how old you are, but were you aware of the signing of the ADA, and did you think about the fact that you might be working under this bill in your future work?
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (01:21)
+Text: I definitely thought about it, Josie. When the ADA became law, I had been an attorney for about 10 years. My practice up to that point and continues to be primarily in the area of labor and employment law. I anticipated, and it's been true since, that my practice in the area of employment discrimination would grow based upon the passage of ADA, specifically Title I. Then it was a few years after that, that I started teaching the course at the University of Pittsburgh School of Law.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (02:00)
+Text: I had a nephew that was born with Down syndrome. There's been some other personal and family situations which have made me sensitive to the rights of persons with disabilities, both physical and mental.
+{}
+
+{.subhed}
+text: How much does access cost amid Pittsburgh’s old infrastructure? 
+{}
+
+{.transcript}
+Speaker: TONY GANZER (02:16)
+Text: Jay, when we're looking at Pittsburgh and Pennsylvania broadly, we sponsored a poll and it's unscientific, but it might give us some food for thought here. We asked people how they would rate physical accessibility of public and private buildings in Pittsburgh. Most respondents gave the city a three of five, so-so. First of all, what do you think of that tally?
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (02:39)
+Text: I'm not entirely surprised. Pittsburgh, although it fancies itself as a new and cutting-edge city, 21st century and appealing to millennials, it's still a very old city, not just in terms of the average age of the population here, but also in terms of its infrastructure. And, of course, it has more than one hill along the way. I mean, that's not an excuse for persons with visual or hearing limitations, but at least that could explain in some ways what might be continuing problems and the relatively low rating below five of five.
+{}
+
+{.transcript}
+Speaker: ALISA GRISHMAN (03:25)
+Text: We have so many businesses with one step to get in that would be so easy to turn into a ramp and then they just don't.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (03:36)
+Text: I think that the first issue that they look at, sadly, I think is "How much is this going to cost me?" I see that sensitivity to cost being even greater these days where businesses are barely hanging on because of this pandemic and the need for them to close or restrict the number of people that are allowed into their establishments. I still think that's what they look to first.
+{}
+
+<img src="assets/img/fuku_1.png" alt=" A man stands on a sidewalk next to an accessible automatic door button at the bottom of a ramp."/>
+
+{.inline-img}
+Img: assets/img/fuku_2.png
+Alt: Close up photograph of the same man pushing another accessible automatic door button, this time at the top of the ramp.
+Caption: When customers who use wheelchairs told Oakland restaurateur Ting Yen that a single step outside his restaurant stopped them from coming in, he regraded the sidewalk at Sushi Fuku. Many Pittsburgh businesses have one step at their doorways. The work cost him over $7,000. (Photos by Brianna McCall)
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (04:05)
+Text: If they had good legal counsel to contact, they would know that the defense of undue burden and undue hardship is a really strict one, even for a smaller business. They would also, if they did a little bit of research, see that a lot of the accommodations and modifications that are being talked about really are minimal costs or that there are government programs that can assist them in that way. The increased revenue could greatly outweigh the additional cost.
+{}
+
+{.subhed}
+Text: Proving discrimination rests on those with disabilities
+{}
+
+{.transcript}
+Speaker: JOSIE BADGER (04:43)
+Text: That's right, Jay. I think that we often don't recognize that disability is the largest minority group in America and that we hold billions of dollars that we could be spending in certain stores, restaurants, whatever, and that we are a revenue source. One thing that has come up with me, with Alisa, with the disability community, is how do we go about making things accessible? And it all goes back to how the ADA was written. You mentioned the proof of burden. Who's responsible for enforcing the ADA?
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (05:23)
+Text: Okay. Well, in any lawsuit under any law, the plaintiff has the initial burden of proof. In an ADA case, the plaintiff could be individuals or a group of individuals whose rights have been directly violated. Also, under the ADA, there's provisions where the U.S. Department of Justice can be the plaintiff bringing in action on behalf of the public. But again, whoever the plaintiff is, they have the burden of initially proving not only that--and this is an easier burden now thanks to the ADA Amendments Act--whether somebody has, in fact, a person has a disability, but also whether there's been discrimination.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (06:13)
+Text: And only then might the burden shift to a defendant, whether it's a public or a private entity to say that they, for example, don't have to provide an accommodation or modification because of undue hardship or undue burden or direct threat. Those are probably the two most common defenses. Although with structures, access to buildings, you can also have other defenses--fundamental alteration, is it readily achievable--but these are defenses that, again, I think are pretty difficult ones for the defendant to meet, for private and public entities to meet.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (07:03)
+Text: Once you can establish that there's been discrimination... And discrimination, I think, comes down to meaningful access. It's not just meeting the letter of the law, but the spirit. It has to be as close to comparable to the experience that persons without disabilities have in that area.
+{}
+
+{.subhed}
+text: How do the most vulnerable speak up?
+{}
+
+{.transcript}
+Speaker: ALISA GRISHMAN (07:28)
+Text: For example, there's people with intellectual disabilities. They live in underfunded agencies that are enforced by underfunded agencies. That group is one of the most vulnerable, and it's so important to have groups that come together to empower them to make these changes.
+{}
+
+{.transcript}
+Speaker: JOSIE BADGER (07:56)
+Text: What would you recommend for other individuals with disabilities to do if they are facing some accessibility issue?
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (08:04)
+Text: You will find all sorts of resources out there, the American Civil Liberties Unions and then there are others that are specific like Disability Rights Pennsylvania. I wish I could say that the Civil Rights Division of the United States Department of Justice is some place that you can rely on, but for the next six months, I would say no, and hopefully that will change starting in 2021.
+{}
+
+{.transcript}
+Speaker: TONY GANZER (08:29)
+Text: A final point here, Jay. Can you point to a concrete achievement of the ADA?
+{}
+
+{.subhed}
+text: Pandemic accommodations and proper policing
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (08:37)
+Text: With respect to the pandemic, we would not have been able to carry on at some level in the economy that we have been unless there had been the ability to work remotely, and the ability to work remotely was tied so closely, I think, to the progress that was made in advocating that in work settings pre-pandemic, that some disabilities might require as a reasonable accommodation the ability to work remotely.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (09:07)
+Text: And then in terms of Black Lives Matter, I've thought not only about, of course, the police brutality against Black citizenry, but there certainly have been examples of where the police have not handled persons with disabilities well at all, either. So  I don't know if that's an accomplishment or it's something that gives me hope that just like we're going to be making progress in one area with one citizenry vis-à-vis the police, that we may also see some progress in the future in other areas as well.
+{}
+
+{.transcript}
+Speaker: TONY GANZER (9:44)
+Text: Attorney Jay Hornack, thanks so much for being with us.
+{}
+
+{.transcript}
+Speaker: JAY HORNACK (9:48)
+Text: It was great to be part of it. Thank you.
+{}
+
+{.transcript}
+Speaker: JOSIE BADGER (9:48)
+Text: Thanks, Jay.
+{}
+
+{.subhed}
+Advocates: Empowerment and a long way to go
+{}
+
+{.transcript}
+Speaker: JENNIFER SZWEDA JORDAN (9:49)
+Text: You've been listening to producer Tony Ganzer along with disability activists Josie Badger and Alisa Grishman. I'm Jennifer Szweda Jordan. We'll wrap up our program with asking Alisa and Josie for their takeaways from our conversations in this podcast with Jay Hornack as well as the last one in which they shared their own experiences, and we heard from other people with disabilities as well as ADA coordinators for the city of Pittsburgh and Allegheny County. What do you think, Josie?
+{}
+
+{.transcript}
+Speaker: JOSIE BADGER (10:22)
+Text: We have a far way to go, that accessibility is something that we all need because whether we have a disability now or not, if you're lucky enough to live long enough, you'll have one. And yet, it's often overlooked by decision-makers because many of them haven't personally experienced disability yet.
+{}
+
+{.transcript}
+Speaker: JENNIFER SZWEDA JORDAN (10:45)
+Text: Alisa?
+{}
+
+{.transcript}
+Speaker: ALISA GRISHMAN (11:18)
+Text: I agree so wholeheartedly, Josie, that we have a long way to go, but I feel so empowered that there are people out there who are fighting the good fight to make improvements and doing things like this now and bringing awareness to the problems. I'm hoping that more and more people realize that they can speak up and make a difference. I'm hopeful. I'm hopeful that we're starting to make bigger and bigger strides, wheel treads, whatever you want to say.
+{}
+
+{.transcript}
+Speaker: JENNIFER SZWEDA JORDAN (11:27)
+Text: Hear more from Alisa and Josie, their personal stories of accessibility and lack thereof in a companion podcast. This program's producer is Tony Ganzer. I'm Jennifer Szweda Jordan with Unabridged Press. This project is produced with PublicSource with support from The FISA Foundation. Our written and visual reporting appears at adapittsburgh.com. The site also contains the full transcript of this podcast. Thanks for listening.
+{}
+[]
+
