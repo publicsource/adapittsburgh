@@ -1,5 +1,7 @@
 [+sections]
 
+<hr>
+
 <section aria-label="audio player">
   <iframe title="audio player" style="border: none; margin-top: 1rem;" src="//html5-player.libsyn.com/embed/episode/id/15150350/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/0418cf/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -7,6 +9,8 @@
 
   <div id="podcast-caption" style="margin-bottom: 3rem;">Listen to this article's author discuss how local places of worship are approaching accessibility for people with disabilities.</div>
 </section>
+
+<hr>
 
 A coalition of religious leaders successfully lobbied 30 years ago for places of worship to be exempt from the Americans with Disabilities Act [ADA]. Many local faith leaders have since worked to make practices and spaces welcoming for congregants of all abilities, but challenges to accessibility remain.
 
