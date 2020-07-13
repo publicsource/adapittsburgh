@@ -27,9 +27,7 @@ caption: Crosswalks in the middle of long streets aren't always accessible to pe
 
 For this project, a beauty queen, two accomplished parathletes, a Steelers fan and 10 other people from our region—all of whom have disabilities—read a passage from the ADA. They took time off work and traveled to downtown Pittsburgh from all over the region to sit under studio lights, look directly into the camera and read both unpleasant truths and aspirations. Some stayed and shared their personal stories—some of which are included in companion podcasts that will run throughout the two weeks of this project.
 
-<div style="padding:52.73% 0 0 0;position:relative;margin-bottom:-1rem;" title="Inline video" aria-label="embedded video of a man shooting a bow and arrow at a target">
-  <iframe src="https://player.vimeo.com/video/437290045?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen name="archery b roll footage" title="archery b roll footage"></iframe>
-</div>
+<div style="padding:52.73% 0 0 0;position:relative;margin-bottom:-1rem;" title="Inline video" aria-label="embedded video of a man shooting a bow and arrow at a target"><iframe src="https://player.vimeo.com/video/437290045?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen name="archery b roll footage" title="archery b roll footage"></iframe></div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 {.inline-img}
 caption: Eric "Trainwreck" Burkett has traveled around the world competing in archery. He lost his legs after a plane crash while he was in the Marines. The ADA says the "nation's proper goals" for people with disabilities include "full participation" in society in many areas, including recreation. [Note: The video is mostly silent.] (Video by Alex Collinger)
