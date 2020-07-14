@@ -1,4 +1,4 @@
-<main class="container"><a name="main-content" aria-label="main content"></a>
+<main class="container"><a name="main-content" aria-hidden="true"></a>
   <% story.sections.forEach(function(section, i) { %>
 
   <!-- Story text -->
@@ -16,9 +16,10 @@
 
   <!-- Pullquote -->
   <% }else if(section.type == "pullquote"){ %>
-    <h3 class="story-pullquote">
+    <blockquote aria-label="pull quote">
+      <h3 class="story-pullquote">
       <%= section.value.text %>
-    </h3>
+    </h3></blockquote>
 
   <!-- Interjection -->
   <% }else if(section.type == "interjection"){ %>

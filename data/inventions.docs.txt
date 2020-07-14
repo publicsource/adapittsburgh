@@ -14,7 +14,7 @@ Caption: Rory Cooper, who directs the Human Engineering Research Laboratories at
 Alt: Composite image of four photographs of Roy Cooper testing the MEBot, a device similar to a motorized wheelchair. In the top row, Cooper demonstrates curb negotiation. The MEBot can lower itself down off a curb without a curb cut. In the bottom row, Cooper demonstrates self leveling on uneven ground. On a slanted, gravel path, the MEBot keeps the wheelchair user level but slants its wheels to compensate.
 {}
 
-National equity advocate Angela Glover Blackwell explains how designs that aid people with disabilities, such as curb cuts, have transformed life for all of society in an <a href="https://ssir.org/articles/entry/the_curb_cut_effect">article in the Stanford Social Innovation Review</a>.
+National equity advocate Angela Glover Blackwell explains how designs that aid people with disabilities, such as curb cuts, have transformed life for all of society in an <a href="https://ssir.org/articles/entry/the_curb_cut_effect" target="_blank" aria-label="article in the Stanford Social Innovation Review (opens in new tab)">article in the Stanford Social Innovation Review</a>.
 
 “When the wall of exclusion came down, everybody benefited,” she wrote. “...Parents pushing strollers headed straight for curb cuts. So did workers pushing heavy carts, business travelers wheeling luggage, even runners and skateboarders.”
 
@@ -68,13 +68,13 @@ text2: Pittsburgh lawyer shares how the ADA equips people with disabilities to f
 url2:/podcast-episode-two-pittsburgh-laywer-shares-how-ada-equips-people-with-disabilities-to-fight-for-labor-rights
 {}
 
-In 1990, designer Formosa led development of the thick, rubber-handled can openers and other tools called <a href="https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/">OXO “Good Grips.”</a> Originally invented for people with arthritis or low vision, the tools are easier on everyone’s hands.
+In 1990, designer Formosa led development of the thick, rubber-handled can openers and other tools called <a href="https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/" target="_blank" aria-label="OXO Good Grips (opens in new tab)">OXO “Good Grips.”</a> Originally invented for people with arthritis or low vision, the tools are easier on everyone’s hands.
 
-Formosa has millions of views on Youtube for <a href="https://www.youtube.com/watch?v=25peayoZOfs">videos with Epicurious</a> about improving the design of kitchen products.
+Formosa has millions of views on Youtube for <a href="https://www.youtube.com/watch?v=25peayoZOfs" target="_blank" aria-label="videos with Epicurious (opens in new tab)">videos with Epicurious</a> about improving the design of kitchen products.
 
 “If more people can use a product, it’s in everyone’s interest,” he said. “Design can include or exclude people. If you are alienating people who have physical challenges, it’s a form of segregation. Disability is determined by design.”
 
-<i>Do you have more examples of assistive and adaptive technology that has gone mainstream? Email Francesca Dabecco, a Pittsburgh-based freelance journalist, at</i> <i><a href="mailto:francescadabecco@gmail.com">francescadabecco@gmail.com</a></i><i>.</i>
+<i>Do you have more examples of assistive and adaptive technology that has gone mainstream? Email Francesca Dabecco, a Pittsburgh-based freelance journalist, at</i> <i><a href="mailto:francescadabecco@gmail.com" aria-label="francescadabecco@gmail.com (opens email application)">francescadabecco@gmail.com</a></i><i>.</i>
 
 <i>This story was fact-checked by Jon Moss.</i>
 <hr>
