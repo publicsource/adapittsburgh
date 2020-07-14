@@ -6,7 +6,7 @@ We can also thank the disability community for the technology behind inventions 
 
 New norms and technologies that many of us enjoy grew from the needs of people with disabilities. The 30-year-old Americans with Disabilities Act played a part.
 
-“It wasn’t until 1990 that people realized that people with disabilities have the right to vote, live in their own homes, fly on an airplane,” says Rory Cooper, who directs the Human Engineering Research Laboratories at the University of Pittsburgh. His team develops robotic limbs, wheelchairs and other mobility devices. 
+“It wasn’t until 1990 that people realized that people with disabilities have the right to vote, live in their own homes, fly on an airplane,” says Rory Cooper, who directs the Human Engineering Research Laboratories at the University of Pittsburgh. His team develops robotic limbs, wheelchairs and other mobility devices.
 
 {.inline-img}
 Img: assets/img/MEBot_HD.jpg
@@ -16,13 +16,13 @@ Alt: Composite image of four photographs of Roy Cooper testing the MEBot, a devi
 
 National equity advocate Angela Glover Blackwell explains how designs that aid people with disabilities, such as curb cuts, have transformed life for all of society in an <a href="https://ssir.org/articles/entry/the_curb_cut_effect">article in the Stanford Social Innovation Review</a>.
 
-“When the wall of exclusion came down, everybody benefited,” she wrote. “...Parents pushing strollers headed straight for curb cuts. So did workers pushing heavy carts, business travelers wheeling luggage, even runners and skateboarders.” 
+“When the wall of exclusion came down, everybody benefited,” she wrote. “...Parents pushing strollers headed straight for curb cuts. So did workers pushing heavy carts, business travelers wheeling luggage, even runners and skateboarders.”
 
 {.subhed}
 text: Making the cut
 {}
 
-Curb cuts were first installed in Kalamazoo, Michigan, where disabled veteran and lawyer Jack Fisher successfully advocated for them. World War II veterans were returning with disabilities and demand grew for accessibility. 
+Curb cuts were first installed in Kalamazoo, Michigan, where disabled veteran and lawyer Jack Fisher successfully advocated for them. World War II veterans were returning with disabilities and demand grew for accessibility.
 
 Many communities didn’t enthusiastically adopt curb cuts. At Hollywood’s “Walk of Fame” in 1988, protesters hammered and chiseled away the concrete at street corners, destroying the curbs that stopped people in wheelchairs from crossing. Activists also laid down plywood “people’s ramps” over other curbs.
 
@@ -32,13 +32,13 @@ Caption: Protesters take sledgehammers to the curb along Hollywood’s “Walk o
 Alt: A black and white photo of a group of protestors in wheelchairs. One is using a sledgehammer to break up the curb. Several protestors hold signs saying “cut the curbs”; “build a better way”; and “walk of shame.”
 {}
 
-Blackwell pointed out that nine out of 10 “unencumbered pedestrians” go out of their way to use a curb cut, according to one study. Today, curb cuts are so commonplace, many people tend to forget their original intent. The “curb cut effect” or “universal design” are the terms given to technologies, products and architecture that primarily benefit people with certain disabilities but ultimately help all of us. 
+Blackwell pointed out that nine out of 10 “unencumbered pedestrians” go out of their way to use a curb cut, according to one study. Today, curb cuts are so commonplace, many people tend to forget their original intent. The “curb cut effect” or “universal design” are the terms given to technologies, products and architecture that primarily benefit people with certain disabilities but ultimately help all of us.
 
 {.subhed}
 Text: Two-wheel tech
 {}
 
-In the early 1990s, Cooper of the Pitt lab tested out a wheelchair that could climb stairs and curbs and traverse snow. It was called the iBot. 
+In the early 1990s, Cooper of the Pitt lab tested out a wheelchair that could climb stairs and curbs and traverse snow. It was called the iBot.
 
 “I was the first person with a disability to sit on it,” Cooper said. He’d used a wheelchair since 1980 after being hit by a bus.
 
@@ -48,7 +48,7 @@ The iBot was expensive for its time. It wasn’t granted Medicare approval that 
 
 {.inline-img}
 Img: assets/img/low_seat.jpg
-Caption: MEBot adjusted to sit at table level. (Photo courtesy of Human Engineering Research Laboratories)
+Caption: <div id="center-me">MEBot adjusted to sit at table level. (Photo courtesy of Human Engineering Research Laboratories)</div>
 Alt: Photograph of three people sitting at a low table. In the foreground, a wheelchair user sitting in the MEBot is able to lower the height of his chair so he sits comfortably at the table.
 {}
 
@@ -57,7 +57,18 @@ Text: Tailored tools
 {}
 Kitchens can be especially difficult places to navigate, but assistive features can often be seen in homes beyond those with disabilities: pull-down kitchen shelving, varied counter heights, wall ovens, motion-sensored faucets and easy-grip gadgets.
 
-In 1990, designer Formosa led development of the thick, rubber-handled can openers and other tools called <a href="https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/">OXO “Good Grips.”</a> Originally invented for people with arthritis or low vision, the tools are easier on everyone’s hands. 
+{.related}
+Img1: assets/img/catherine_2.JPG
+alt1: Photograph of essay author Catherine Getchell, a blind woman wearing a blue suit. She is standing in her backyard with her guide dog.
+text1: First person: When will the Americans with Disabilities Act evolve to the digital age?
+url1:/when-will-the-americans-with-disabilities-act-evolve-to-the-digital-age
+img2: assets/img/43.3-work-la-1-sm.jpg
+alt2: Black and white photograph of a woman protesting. She’s holding a handmade sign that reads “Let us work”
+text2: Pittsburgh lawyer shares how the ADA equips people with disabilities to fight for their rights
+url2:/podcast-episode-two-pittsburgh-laywer-shares-how-ada-equips-people-with-disabilities-to-fight-for-labor-rights
+{}
+
+In 1990, designer Formosa led development of the thick, rubber-handled can openers and other tools called <a href="https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/">OXO “Good Grips.”</a> Originally invented for people with arthritis or low vision, the tools are easier on everyone’s hands.
 
 Formosa has millions of views on Youtube for <a href="https://www.youtube.com/watch?v=25peayoZOfs">videos with Epicurious</a> about improving the design of kitchen products.
 
