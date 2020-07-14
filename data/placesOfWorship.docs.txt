@@ -3,11 +3,11 @@
 <hr>
 
 <section aria-label="audio player">
+  <div style="margin-bottom: 1rem;">Listen to this article's author discuss how local places of worship are approaching accessibility for people with disabilities.</div>
+
   <iframe title="audio player" style="border: none; margin-top: 1rem;" src="//html5-player.libsyn.com/embed/episode/id/15150350/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/0418cf/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
   <aside id="transcript-anchor"><h3>Jump to audio transcript</h3></div>
-
-  <div id="podcast-caption" style="margin-bottom: 3rem;">Listen to this article's author discuss how local places of worship are approaching accessibility for people with disabilities.</div>
 </section>
 
 <hr>
