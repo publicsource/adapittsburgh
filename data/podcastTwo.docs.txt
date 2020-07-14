@@ -60,7 +60,7 @@ Text: I had a nephew that was born with Down syndrome. There's been some other p
 {}
 
 {.subhed}
-text: How much does access cost amid Pittsburgh’s old infrastructure? 
+text: How much does access cost amid Pittsburgh’s old infrastructure?
 {}
 
 {.transcript}
@@ -144,6 +144,17 @@ Speaker: TONY GANZER (08:29)
 Text: A final point here, Jay. Can you point to a concrete achievement of the ADA?
 {}
 
+{.related}
+img1: assets/img/catherine_2.JPG
+alt1: Photograph of essay author Catherine Getchell, a blind woman wearing a blue suit. She is standing in her backyard with her guide dog.
+text1: When will the Americans with Disabilities Act evolve to the digital age?
+url1: /when-will-the-americans-with-disabilities-act-evolve-to-the-digital-age
+img2: assets/img/jsjpick_crawl_org.jpg
+alt2: Black and white icon of two disability rights activists climbing the steps up capital hill.
+text2: How does accessibility in the Pittsburgh region compare to other areas?
+url2: /podcast-episode-one-how-does-accessibility-in-pittsburgh-compare-to-other-areas
+{}
+
 {.subhed}
 text: Pandemic accommodations and proper policing
 {}
@@ -202,4 +213,3 @@ Speaker: JENNIFER SZWEDA JORDAN (11:27)
 Text: Hear more from Alisa and Josie, their personal stories of accessibility and lack thereof in a companion podcast. This program's producer is Tony Ganzer. I'm Jennifer Szweda Jordan with Unabridged Press. This project is produced with PublicSource with support from The FISA Foundation. Our written and visual reporting appears at adapittsburgh.com. The site also contains the full transcript of this podcast. Thanks for listening.
 {}
 []
-
