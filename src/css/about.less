@@ -9,12 +9,40 @@ main#about-page h1 {
   }
 }
 
-.about-text {
+.about-text,
+.podcast-page {
   padding: 2rem 0;
   box-sizing: border-box;
   @media @mobile {
     box-sizing: border-box;
     padding: 2rem 1rem;
+  }
+}
+
+.podcast-page img {
+  float: left;
+  width: 33%;
+  @media @mobile-above {
+    float: none;
+    width: 100%;
+  }
+}
+
+.podcast-page h4 {
+  @media @mobile-above {
+    font-size: 2rem;
+  }
+}
+
+.podcast-page h4.desc {
+  float: left;
+  width: 64%;
+  margin-left: 2%;
+  @media @mobile-above {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 1rem;
   }
 }
 
