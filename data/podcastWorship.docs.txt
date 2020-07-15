@@ -176,6 +176,6 @@ Text: No problem.
 
 {.transcript}
 Speaker: Jennifer Szweda Jordan (13:13)
-Text: You can read Meg St-Esprit's reporting on accessibility and Pittsburgh houses of worship at adapittsburgh.com. Published in collaboration with PublicSource. I'm Jennifer Szweda Jordan from Unabridged Press. This program's production received assistance from the Center for Media Innovation at Point Park University, and is supported by the FISA Foundation. Thanks for listening.
+Text: You can read Meg St-Esprit's reporting on accessibility and Pittsburgh houses of worship at adapittsburgh.com. Published in collaboration with PublicSource. And we hope you'll continue listening to this series wherever you're hearing your podcasts. We have a companion episode to our conversation about houses of worship in which we talk to people with disabilities about their personal spiritual journeys. I'm Jennifer Szweda Jordan from Unabridged Press. This program's production received assistance from the Center for Media Innovation at Point Park University, and is supported by the FISA Foundation. Thanks for listening.
 {}
 []
