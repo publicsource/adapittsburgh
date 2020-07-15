@@ -5,7 +5,8 @@
 <section aria-label="audio player">
   <div style="margin-bottom: 1rem;">Listen to this article's author discuss how local places of worship are approaching accessibility for people with disabilities.</div>
 
-  <iframe title="audio player" style="border: none; margin-top: 1rem;" src="//html5-player.libsyn.com/embed/episode/id/15150350/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/0418cf/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  <iframe title="audio player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15219701/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/3a59a9/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 </section>
 
 <a href="#transcript" aria-label="jump to audio transcript">
