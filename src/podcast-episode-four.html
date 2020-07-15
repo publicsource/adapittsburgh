@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <!-- BEGIN TWITTER SUMMARY CARD -->
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:title" content="Pittsburgh lawyer shares how the ADA equips people with disabilities to fight for their rights | ADA at 30: Accessibility in Pittsburgh">
+   <meta name="twitter:site" content="@PublicSourcePA">
+   <meta name="twitter:url" content="https://adapittsburgh.com/podcast-episode-two-pittsburgh-laywer-shares-how-ada-equips-people-with-disabilities-to-fight-for-labor-rights">
+   <meta name="twitter:image" content="https://adapittsburgh.com/assets/img/43.3-work-la-1-sm.jpg">
+   <meta name="twitter:description" content="In this episode of ADA at 30: Accessibility in Pittsburgh, we’re joined by a lawyer who was 10 years into his legal career when the ADA was passed. It ushered in cases he pressed in labor and employment discrimination.">
+
+   <!-- Social sharing meta -->
+   <meta property="og:type" content="article">
+   <meta property="og:title" content="Pittsburgh lawyer shares how the ADA equips people with disabilities to fight for their rights">
+   <meta property="og:site_name" content="ADA at 30: Accessibility in Pittsburgh">
+   <meta property="og:url" content="https://adapittsburgh.com/podcast-episode-two-pittsburgh-laywer-shares-how-ada-equips-people-with-disabilities-to-fight-for-labor-rights">
+   <meta property="og:image" content="https://adapittsburgh.com/assets/img/43.3-work-la-1-sm.jpg">
+   <meta property="og:description" content="In this episode of ADA at 30: Accessibility in Pittsburgh, we’re joined by a lawyer who was 10 years into his legal career when the ADA was passed. It ushered in cases he pressed in labor and employment discrimination.">
+
+    <!-- imports all header info -->
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <title>Pittsburgh lawyer shares how the ADA equips people with disabilities to fight for their rights | ADA at 30: Accessibility in Pittsburgh</title>
+
+    <!-- imports main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+    <!-- imports global header -->
+    <%= t.include("partials/_main-nav.html") %>
+
+    <!-- STORY INFO -->
+    <section class="container" id="story-intro" style="overflow-x: hidden;">
+      <div class="row">
+        <div id="story-date">
+            July 17, 2020
+        </div>
+      </div>
+      <div class="row">
+        <div class="ten columns"><a name="main-content" aria-hidden="true"></a>
+          <h1 id="story-headline">Podcast episode 4: Body, mind and spirit: Where does disability fit?</h1>
+        </div>
+      </div>
+      <!--  <div class="row">
+          <div id="story-byline">Josie, Unabridged Press</div>
+      </div>-->
+
+      <!-- PODCAST INFO -->
+      <section class="row" id="podcast-info">
+        <div class="one-third column">
+          <img src="assets/img/RachelKallemWhitman.jpg" alt="Photograph of a white woman with short hair smiling at the camera. She’s making a silly face and resting her head on her hand."/>
+          <div id="podcast-caption" style="width:100%;">Rachel Kallem-Whitman only believed in God when having a manic episode. Now she places her faith in people, and a good medication regimen. (Courtesy photo)</div>
+        </div>
+
+        <div class="two-thirds column" id="podcast-desc">
+          <!-- PODCAST -->
+          <section aria-label="podcast player">
+            <iframe title="podcast player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15222950/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/3a59a9/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+          </section>
+          <div id="transcript-anchor"><a href="#transcript" aria-label="Jump to podcast transcript">
+            <h3>Jump to podcast transcript</h3>
+          </a></div>
+          <p>
+            <b>Subscribe on:</b> <a href="https://podcasts.apple.com/us/podcast/ada-at-30-accessibility-in-pittsburgh/id1522903903" target="_blank" aria-label="apple podcasts (opens in a new tab)">Apple Podcasts,</a>
+            <a href="https://pca.st/cg90btkk" target="_blank" aria-label="pocket casts (opens in a new tab)">Pocket Casts,</a>
+            <a href="https://radiopublic.com/ada-at-30-accessibility-in-pittsb-6LV45o" target="_blank" aria-label="RadioPublic (opens in a new tab)">RadioPublic,</a>
+            <a href="https://adaat30.libsyn.com/rss" target="_blank" aria-label="RSS (opens in a new tab)">RSS,</a>
+            <a href="https://open.spotify.com/show/4iEOcAoDNg8Mvo0MlHpR90" target="_blank" aria-label="Spotify (opens in a new tab)">Spotify,</a>
+            <a href="https://www.stitcher.com/podcast/year-of-the-humanities/ada-at-30-accessibility-in-pittsburgh?refid=stpr" target="_blank" aria-label="Stitcher (opens in a new tab)">Stitcher</a>
+          </p>
+
+          <p>Religious traditions can offer mixed messages about disability. Just like for all believers, images and words from spiritual communities can provide encouragement, purpose and belonging. But sometimes disability adds baggage — blame, confusion and exclusion.</p>
+
+          <p>In this podcast, two men share their understanding of their physical disabilities and higher powers. And a woman talks about how bipolar disorder led to her being a confirmed atheist. They share their stories in this episode of ADA at 30: Accessibility in Pittsburgh. This is a companion podcast to adapittsburgh.com, a collaboration between PublicSource and Unabridged Press.</p>
+        </div>
+      </section>
+    </section>
+
+    <section>
+      <a name="transcript">
+        <center>
+          <h2 style="margin-bottom: 4rem;">Transcript</h2>
+        </center>
+      </a>
+    </section>
+
+    <%= t.include("partials/_story.html", {'story': archieml.podcastFour}) %>
+
+    <!-- Contact form -->
+    <section role="contact form" style="margin-top: 2rem;">
+      <div class="inline">
+        <%= t.include("partials/_preFooter.html") %>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <%= t.include("partials/_footer.html") %>
+
+    <script src="app.js" async></script>
+    <%= t.include("partials/_analytics.html") %>
+    <%= t.include("partials/_userway.html") %>
+  </body>
+</html>

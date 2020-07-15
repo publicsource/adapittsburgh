@@ -20,7 +20,7 @@ A federal survey from 2016 found that about 60% of 178 polling places examined b
 Nearly 14% of Pennsylvanians have a disability, a percentage slightly higher than the national rate. And in national elections, eligible voters with disabilities voted at a lower rate than individuals without a disability, even as turnout surged in the 2018 midterms. According to a Rutgers University study, 49.3% of eligible voters with a disability voted nationwide that election, compared to 54% of eligible voters without a disability.
 
 {.pullquote}
-text: “A federal survey from 2016 found that about 60% of 178 polling places examined by the Government Accountability Office had at least one potential impediment for voters with disabilities, such as lack of signs indicating accessible paths or steep ramps.”
+text: A federal survey from 2016 found that about 60% of 178 polling places examined by the Government Accountability Office had at least one potential impediment for voters with disabilities, such as lack of signs indicating accessible paths or steep ramps.
 {}
 
 State officials have said they’re balancing how to meet the needs of accessible voting for people with disabilities while maintaining secure elections.

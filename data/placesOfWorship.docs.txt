@@ -3,9 +3,9 @@
 <hr>
 
 <section aria-label="audio player">
-  <div style="margin-bottom: 1rem;">Listen to this article's author discuss how local places of worship are approaching accessibility for people with disabilities.</div>
+  <div style="margin-bottom: 1rem;"><b>Podcast episode 3:</b> Listen to this article's author discuss how local places of worship are approaching accessibility for people with disabilities.</div>
 
-  <iframe title="audio player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15219701/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/3a59a9/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  <iframe title="audio player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15219701/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/3a59a9/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 </section>
 
