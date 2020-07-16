@@ -8,12 +8,6 @@ Text: Does faith inform how people see disability, especially if it's their own 
 Text: Was I a mean raccoon? Hinduism, karma and disability
 {}
 
-{.inline-img}
-Img: assets/img/Kumar_Temple.jpg
-Alt: Photograph of two Brown men stand with their arms around each other in front of a Hindu temple. Both are facing the camera. Puneet stands on the right with a big smile on his face.
-Caption: Puneet Kumar (right), and his late father, visit the largest Hindu temple in North America, Radha Madhav Dham in Driftwood, Texas, in January 2017. Kumar tries to make sense of his muscular dystrophy diagnosis in light of his Hindu family’s belief in Karma. (Courtesy photo)
-{}
-
 {.transcript}
 Speaker: PUNEET KUMAR (00:53)
 Text: I didn't know what muscular dystrophy was until I was formally diagnosed seven years ago. I was crushed, totally devastated. I'm a huge sports fan. I grew up idolizing Kobe Bryant, Troy Polamalu, Randy Moss. My name is Puneet Kumar. There's seven main forms of muscular dystrophy. Mine's called limb-girdle muscular dystrophy, so I can walk short distances and on level surfaces. But the main reason I have to use a wheelchair is because going up and downstairs is extremely difficult, and I trip and fall easily. And I used to be able to do 50 pushups not stopping. Now, I can't even do one on my knees. I just totally completely felt like my life was robbed from me, totally stolen from me. I figured that this was worse than death. I still sort of do — you know, I'm a Hindu, I believe in Karma — still sort of do believe it's being punished for things I did in this life or previous ones, but I'm gradually working in accepting these things.
@@ -26,6 +20,13 @@ Text: It took 8.4 million life cycles to become human. So in previous lives, all
 
 {.subhed}
 Text: Are you there, God? It’s me, Rachel
+{}
+
+{.vertical-inline-img}
+Img: assets/img/RachelKallemWhitman.jpg
+Alt: Photograph of a white woman with short hair smiling at the camera. She’s making a silly face and resting her head on her hand.
+Caption: Rachel Kallem-Whitman only believed in God when having a manic episode. Now she places her faith in people, and a good medication regimen. (Courtesy photo)
+Text: <span class="speaker-v">RACHEL KALLEM-WHITMAN (03:03):</span><br> My name is Rachel Kallem-Whitman. I live with bipolar disorder. I am a secular Jew. I identify culturally as being Jew-ish, but otherwise live in an atheist space. My parents wanted me to have the Sunday School experience that a lot of people talk about, going and learning these lessons. So we would go to this very humanistic reconstructive, one of the other reform communities, and the Sunday School equivalent. Which I thought was awesome in that we didn't really read scriptures. This really wasn't about God at all, it was practical skills. So we learned about things like, "What are the merits of recycling?" And so, for me, it fused together this idea that when you come to spaces for religion, it doesn't necessarily have to be about a higher power, it's about what you do.
 {}
 
 {.transcript}
@@ -47,10 +48,11 @@ Text: Starting at 15, when I first started experiencing these symptoms, that was
 Text: Where are the Christian leaders with disabilities?
 {}
 
-{.inline-img}
+{.vertical-inline-img}
 Img: assets/img/David_Hale_ADA30.png
 Alt: Photograph of a Black man in a wheelchair. He’s facing the camera in the middle of speaking.
 Caption: David Hale worships at a Christian church in Pittsburgh, where he says people with disabilities are welcome, but not necessarily in leadership roles. (Photo by Alex Collinger)
+Text: <span class="speaker-v">DAVID HALE (06:18):</span><br>I love people and I love stories. And I want to build community and I want to teach people. I want to use stories to enrich people's lives. That's my mission to create stories for my collection, and use them as material to enrich people's lives through storytelling. One of them is my personal story of being born with a spina bifida. My name is David Hale, and when I was four, my mother told me that there was a purpose for my life. And that really helped me to feel like there was something for me here in this world to do, and everything. I love doing percussion and drums, the bongo. And I like to take my drumsticks and make beats on different things like boxes, and do a lot of creative things with that. It's usually just that, I don't sing that well or anything.
 {}
 
 {.transcript}
