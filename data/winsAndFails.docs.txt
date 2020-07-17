@@ -13,17 +13,19 @@ text: Wins
 
 <b>Grishman's polling location near the intersection of Forbes Avenue and Stevenson Street</b>
 
-<i>“</i><i>Initially the ‘accessible’ entrance to my polling location consisted of a pair of folding ramps that didn’t line up safely and I couldn’t actually enter the building. The gracious employees of the firehouse helped me out as best as they could to go in a side entrance, and the next year when I showed up to vote they had converted their two-step entrance into a beautiful</i> <i><a href="https://adapittsburgh.com/voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" target="_blank" aria-label="ramp (opens in new tab)">ramp.</a></i> <i>Hurrah!”</i>
+<i>“</i><i>Initially the ‘accessible’ entrance to my polling location consisted of a pair of folding ramps that didn’t line up safely and I couldn’t actually enter the building. The gracious employees of the firehouse helped me out as best as they could to go in a side entrance, and the next year when I showed up to vote they had converted their two-step entrance into a beautiful</i> <i><a href="https://adapittsburgh.com/voters-with-disabilities-are-accustomed-to-obstacles-how-will-covid-19-impact-accessibility" target="_blank" aria-label="ramp (opens in new tab)">ramp.</a></i> <i>Hurrah!” —Grishman</i>
 
 Under the ADA, public entities must make <a href="https://www.ada.gov/votingck.htm" target="_blank" aria-label="voting facilities (opens in new tab)">voting facilities</a> accessible to people with disabilities, according to a 2016 ADA checklist for polling places from the U.S. Department of Justice. Polling sites must have an accessible route both to the entrance of the location and to the voting area inside the facility, among other features.
 “Simply put, voting in person at a local polling place is the quintessential American voting experience,” the 2016 report states. “People with disabilities must have the opportunity to be full participants in an integrated civic event.”
+
 {.inline-img}
-Img: assets/img/IMG_8045.JPG
-Alt: Photograph of the outside of the Carnegie Museums of Art and Natural History. It’s a big, classical style building with two metal statues of scientific leaders out front. Though this entrance has stairs, the museum also has an accessible entrance.
-Caption: <div id="center-me">The Carnegie Museums of Art and Natural History. (Photo by Jay Manning/PublicSource)</div>
+Img: assets/img/voting_3.jpg
+Alt: Photograph of Alisa Grisham outside on the sidewalk with the street behind her. She is in her wheelchair and wearing a T-shirt that says “not your inspiration” and below it is a silhouette of a person in a wheelchair.
+Caption: “I’d give the city six out of 10, pretty good but not perfect,” says Alisa Grishman, founder of Access Mob Pittsburgh, on the accessibility within Pittsburgh. Grishman serves as a member of Peduto’s advisory group for Complete Streets. (Photo by Ryan Loew/PublicSource)
 {}
+
 <b>Carnegie Museums</b>
-<i>“</i><i>The Carnegie Museums have always been very physically accessible (although I do wish all of its locations had electric scooters available to rent), but two things really stick out to me. The first is their participation in a statewide program that allows people with SNAP (also known as food stamps) to access certain museums for $3 or less. The second was their 2019 exhibit called Dis+Ability, which highlighted assistive technologies in a sensitive and beautiful way, including dance workshops that were accessible to people of all abilities. It was awesome!”</i>
+<i>“</i><i>The Carnegie Museums have always been very physically accessible (although I do wish all of its locations had electric scooters available to rent), but two things really stick out to me. The first is their participation in a statewide program that allows people with SNAP (also known as food stamps) to access certain museums for $3 or less. The second was their 2019 exhibit called Dis+Ability, which highlighted assistive technologies in a sensitive and beautiful way, including dance workshops that were accessible to people of all abilities. It was awesome!” —Grishman</i>
 
 All four Carnegie Museums have accessible entrances and bathrooms, as well as assistive listening devices, elevators and closed captioning to accompany videos, said Betsy Momich, director of corporate communications for Carnegie Museums of Pittsburgh, in a statement.
 
@@ -36,14 +38,14 @@ The art museum has also broadened its “In the Moment” tour model — first d
 Sensory backpacks and electric scooters are provided to visitors at the Carnegie Science Center, Momich said. The center has also hosted several sensory-sensitive events, including a viewing of the “Polar Express” film.
 
 {.inline-img}
-Img: assets/img/IMG_8141.JPG
-Alt: Head-on photograph of the outside of the Andy Warhol Museum. In the windows are large blue and yellow prints of Andy Warhol’s cow prints. The entrance has both stairs and a ramp. In the foreground, someone skateboards down the sidewalk.
-Caption: <div id="center-me">The Andy Warhol Museum. (Photo by Jay Manning/PublicSource)</div>
+Img: assets/img/IMG_8045.JPG
+Alt: Photograph of the outside of the Carnegie Museums of Art and Natural History. It’s a big, classical style building with two metal statues of scientific leaders out front. Though this entrance has stairs, the museum also has an accessible entrance.
+Caption: <div id="center-me">The Carnegie Museums of Art and Natural History. (Photo by Jay Manning/PublicSource)</div>
 {}
 
 <b>The Andy Warhol Museum</b>
 
-<i>“</i><i>The Warhol Museum is gloriously accessible, especially in their efforts to bring visual artwork alive to people who are blind or low vision. They have a guided audio tour with beacons so they know exactly where you are and can describe the painting you are in front of, and each floor has several tactile versions of his art that, combined with audio description, you can follow with your hands to truly experience his art.”</i>
+<i>“</i><i>The Warhol Museum is gloriously accessible, especially in their efforts to bring visual artwork alive to people who are blind or low vision. They have a guided audio tour with beacons so they know exactly where you are and can describe the painting you are in front of, and each floor has several tactile versions of his art that, combined with audio description, you can follow with your hands to truly experience his art.” —Grishman</i>
 
 The Warhol, also a Carnegie Museum, has co-hosted two Silent Disco events with the Autism Connection of Pennsylvania and The Pittsburgh Center for Autistic Advocacy and has offered two workshops that were sensory-sensitive, Momich said.
 
@@ -59,7 +61,7 @@ Caption: <div id="center-me">The PPG Paints Arena. (Photo by Jay Manning/PublicS
 
 <b>PPG Paints Arena</b>
 
-<i>“</i><i>I have had nothing but positive experiences going to events at PPG Paints Arena. They have staff members outside the front gate looking for visibly disabled people (or you can approach them and identify as needing assistance) and they take you in a side entrance to a special elevator. Once inside, I’ve found the staff well-trained at assisting disabled people and generally helpful for getting seating set up and the like.”</i>
+<i>“</i><i>I have had nothing but positive experiences going to events at PPG Paints Arena. They have staff members outside the front gate looking for visibly disabled people (or you can approach them and identify as needing assistance) and they take you in a side entrance to a special elevator. Once inside, I’ve found the staff well-trained at assisting disabled people and generally helpful for getting seating set up and the like.” —Grishman</i>
 
 PPG Paints Arena is “very proud” of its commitment to community members with disabilities, both through the arena’s accessibility and the services and employment opportunities it offers, the arena said in the statement
 
@@ -75,7 +77,7 @@ Caption: <div id="center-me">The National Aviary. (Photo by Jay Manning/PublicSo
 
 <b>The National Aviary</b>
 
-<i>“</i><i>The last big date I had with my boyfriend before the COVID lockdown was to the National Aviary and it was fantastic. From a physical accessibility standpoint, they are outstanding — even the bathrooms were easy to maneuver. We’ve also been there for events and they did an excellent job of keeping pathways clear and using accessible cable covers in walkways when needed.”</i>
+<i>“</i><i>The last big date I had with my boyfriend before the COVID lockdown was to the National Aviary and it was fantastic. From a physical accessibility standpoint, they are outstanding — even the bathrooms were easy to maneuver. We’ve also been there for events and they did an excellent job of keeping pathways clear and using accessible cable covers in walkways when needed.” —Grishman</i>
 
 The National Aviary is accessible to wheelchairs and strollers and features high-contrast signage, including in Braille, said Molly Toth, communications specialist for the aviary, in a statement.
 
@@ -90,7 +92,7 @@ Text: Areas for improvement
 
 <b>The T/ light rail system</b>
 
-<i>“</i><i>As a native Manhattanite. I already look at the T with some disdain, but from an accessibility standpoint, it’s a nightmare. Some stops are high-level ones, meaning that there’s a platform at door level and you can just roll on out at your stop. Other stations are street-level and you have to be able to climb up and down a steep set of steps, which is difficult for people with certain mobility impairments and strollers and shopping carts and impossible for wheelchair users.”</i>
+<i>“</i><i>As a native Manhattanite, I already look at the T with some disdain, but from an accessibility standpoint, it’s a nightmare. Some stops are high-level ones, meaning that there’s a platform at door level and you can just roll on out at your stop. Other stations are street-level and you have to be able to climb up and down a steep set of steps, which is difficult for people with certain mobility impairments and strollers and shopping carts and impossible for wheelchair users.” —Grishman</i>
 
 Of the light rail system’s about 52 stops and stations, about 25 are ADA-compliant and 25 are not, said Adam Brandolph, spokesperson for the Port Authority of Allegheny County, in an interview. The system’s low-level stops are not ADA-compliant, as they require stairs at the front of the vehicle to reach the street safely.
 
@@ -112,7 +114,7 @@ Caption: Accessibility advocate Alisa Grishman says multiple businesses on Fifth
 
 <b>Parking on the sidewalk</b>
 
-<i>“</i><i>There is a set of three businesses in a row on Fifth Avenue that almost constantly have cars parked on the sidewalk. I’ve reported them all numerous times. The owner of a car lot uses the sidewalk for parking as well, including putting out for-sale vehicles on display.”</i>
+<i>“</i><i>There is a set of three businesses in a row on Fifth Avenue that almost constantly have cars parked on the sidewalk. I’ve reported them all numerous times. The owner of a car lot uses the sidewalk for parking as well, including putting out for-sale vehicles on display.” —Grishman</i>
 
 Parking on sidewalks is unsafe, illegal and inequitable, said Karina Ricks, director of the Department of Mobility and Infrastructure [DOMI], in a statement. Pittsburghers must break this habit, she said.
 
@@ -128,7 +130,7 @@ Caption: <div id="center-me">The crosswalk where Penn Avenue and Liberty Avenue 
 
 <b>Crosswalk where Penn and Liberty avenues merge westbound Downtown</b>
 
-<i>“</i><i>I cannot tell you the frustration of getting off the T to go to one of the many events held down by The Point and walking to this intersection only to find that there isn’t a curb cut into the giant crosswalk and having to double back a block to get to a different intersection. It’s so frustrating and I’ve reported it numerous time to the city but it’s been years and nothing has happened.”</i>
+<i>“</i><i>I cannot tell you the frustration of getting off the T to go to one of the many events held down by The Point and walking to this intersection only to find that there isn’t a curb cut into the giant crosswalk and having to double back a block to get to a different intersection. It’s so frustrating and I’ve reported it numerous time to the city but it’s been years and nothing has happened.” —Grishman</i>
 
 Setzler said he wasn’t sure whether there’s a reason that a ramp is not on the curb, but he will ask the department’s engineers to evaluate the condition.
 
@@ -139,7 +141,7 @@ Setzler said he wasn’t sure whether there’s a reason that a ramp is not on t
 Img: assets/img/improve_2.jpg
 Alt: Photograph of a Downtown crosswalk. There’s a curb cut on one end of the crosswalk, but not the other.
 Caption: Crosswalk at Liberty and 6th avenues. (Courtesy photo)
-Text: <i>“When I’ve reported this crosswalk that leads to a piece of sidewalk with no curb cut, I was told that I should go to a nearby corner, which requires me to walk along the street into oncoming moving traffic that’s making turns at that intersection. To say that would be unsafe is a gross understatement and I’m tired of my life not being as important to the city as their laziness.”</i><br><br>DOMI is aware that the crosswalk is lacking a ramp, Setzler said. The department evaluated the location last year for the addition of a ramp, but found the sidewalk is also the roof of a building underneath.<br><br>“Removing the sidewalk would expose the basement,” Setzler said. “Unfortunately this location will not be an easy fix.”
+Text: <i>“When I’ve reported this crosswalk that leads to a piece of sidewalk with no curb cut, I was told that I should go to a nearby corner, which requires me to walk along the street into oncoming moving traffic that’s making turns at that intersection. To say that would be unsafe is a gross understatement and I’m tired of my life not being as important to the city as their laziness.” —Grishman</i><br><br>DOMI is aware that the crosswalk is lacking a ramp, Setzler said. The department evaluated the location last year for the addition of a ramp, but found the sidewalk is also the roof of a building underneath.<br><br>“Removing the sidewalk would expose the basement,” Setzler said. “Unfortunately this location will not be an easy fix.”
 {}
 
 When modifications or significant investments are made to a street, the city or any responsible actor must ensure the street is renovated to meet current ADA standards, Ricks said. Both Grishman’s examples involving crosswalks are areas that haven’t seen large investment in decades, she said.
@@ -155,7 +157,7 @@ Pittsburgh has programs to update city features to meet modern accessibility sta
 Img: assets/img/improve_4.jpg
 Alt: Photograph of a sidewalk. There’s a lamppost in the middle of the sidewalk, making it impossible for a wheelchair user to get past without going into the road or on the grass.
 Caption: Sidewalk leading onto the northbound side of the Birmingham Bridge. (Courtesy photo)
-Text: <i>“There’s nothing like having to walk on the on-ramp to a busy bridge because some jagoff decided it would be a great idea to put a streetlight in the middle of the sidewalk. I really enjoy walking across the Birmingham Bridge to get to the South Side but when PennDOT came in and installed that lamp it suddenly became completely unsafe to do so.”</i><br><br>The Pennsylvania Department of Transportation [PennDOT]’s East Carson Street project will fix the streetlight, Setzler said. PennDOT is renovating the sidewalk and curb to create a safer way for pedestrians to cross and to narrow the intersection.<br><br>The streetlight — which the city installed last year as part of its East Carson Street project — was placed to accommodate the planned location of the sidewalk and curb.
+Text: <i>“There’s nothing like having to walk on the on-ramp to a busy bridge because some jagoff decided it would be a great idea to put a streetlight in the middle of the sidewalk. I really enjoy walking across the Birmingham Bridge to get to the South Side but when PennDOT came in and installed that lamp it suddenly became completely unsafe to do so.” —Grishman</i><br><br>The Pennsylvania Department of Transportation [PennDOT]’s East Carson Street project will fix the streetlight, Setzler said. PennDOT is renovating the sidewalk and curb to create a safer way for pedestrians to cross and to narrow the intersection.<br><br>The streetlight — which the city installed last year as part of its East Carson Street project — was placed to accommodate the planned location of the sidewalk and curb.
 {}
 
 “Unfortunately there was a delay between the completion of our project and the start of the PennDOT project, so this inaccessible condition has resulted in the interim,” Setzler said.
@@ -165,6 +167,10 @@ DOMI has already informed PennDOT that the streetlight is noncompliant and must 
 The ADA is not only for people with disabilities, Ricks said, but it is vital for an inclusive city that enables its residents to meet their needs and thrive. Universal access is not easily achieved, but the city is committed to meeting that standard, she said.
 
 “We just need to remain constantly vigilant about it,” Ricks said.
+
+{.subhed}
+text: Recognizing inaccessibility
+{}
 
 The Pittsburgh community must work to address inaccessibility, as anyone may experience a disability in their lifetime, Grishman said.
 
