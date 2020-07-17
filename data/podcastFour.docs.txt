@@ -70,6 +70,17 @@ Speaker: DAVID HALE (08:09)
 Text: And it's really nice to have that. I love going to church and everything. And, of course, I'm a Christian and everything. And I think there needs to be change in churches too. More inclusion with people with disabilities and their families. There's not a lot of wheelchairs in churches. And it's not because churches are saying, "Stay away and get out." They don't really have any things for ... Even service too. Maybe they won't let people with disabilities serve. They want to serve people with disabilities, but not let them serve in ministry. And that's one of the things I would like to change.
 {}
 
+{.related}
+Img1: assets/img/worship_1.jpg
+alt1: Photograph of a catholic priest delivering a sermon. He's inside a church in front of his congregation. In the background, a woman interprets his sermon in American Sign Language along with him.
+text1: Despite ADA exemption, Pittsburgh-area houses of worship highlight accessibility efforts—and remaining shortfalls
+url1:/despite-ada-exemption-pittsburgh-houses-of-worship-highlight-accessibility-efforts-and-shortfalls
+img2: assets/img/43.3-work-la-1-sm.jpg
+alt2: Black and white photograph of a woman protesting. She’s holding a handmade sign that reads “Let us work”
+text2: Pittsburgh lawyer shares how the ADA equips people with disabilities to fight for their rights
+url2:/podcast-episode-two-pittsburgh-laywer-shares-how-ada-equips-people-with-disabilities-to-fight-for-labor-rights
+{}
+
 {.transcript}
 Speaker: JENNIFER SZWEDA JORDAN (09:02)
 Text: Thanks to Puneet Kumar, Rachel Kallem-Whitman and David Hale for sharing their stories. Now, you can put a face to the name of each of today's speakers by heading over to adapittsburgh.com. In the next episode of this podcast, two sisters with different disabilities share their stories of walking together. And if you liked today's show, there are some similar themes in the next episode.
