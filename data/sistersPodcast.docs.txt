@@ -51,7 +51,7 @@ Text: My vision is not completely restored but it's much better than it was. So 
 {.inline-img}
 img: assets/img/sisters_4.JPG
 alt: A Black woman stands in front of a row of nail polish colors.
-caption: Alana Gibbs at her hair and nail shop, Hair 2 Sole Beauty Studio in Bridgeville, PA. (Photo by Jay Manning/PublicSource)
+caption: Alana Gibbs, pictured at the Bridgeville salon she owns, has multiple sclerosis. (Photo by Jay Manning/PublicSource)
 {}
 
 {.subhed}
@@ -145,7 +145,7 @@ Text: "You're just a little sad."
 {.inline-img}
 img: assets/img/sisters_3.JPG
 alt: Two Black women sit on a couch in a beauty salon. They're smiling and each holding a pair of shoes.
-caption: Alana Gibbs (Left) and Darah Thompson (right) at Alana's hair and nail shop, Hair 2 Sole Beauty Studio in Bridgeville, PA.  (wearing shirts & shoes that they created, but I cannot remember who created the shirts and who created the shoes) (Photo by Jay Manning/PublicSource)
+caption: Sisters Alana Gibbs (left) and Darah Thompson discuss in this podcast how their entrepreneurship is affected by their different disabilities. (Photo by Jay Manning/PublicSource)
 {}
 
 {.subhed}
@@ -214,6 +214,17 @@ Text: Yeah.
 {.transcript}
 Speaker: Alana Gibbs (11:29)
 Text: Yes.
+{}
+
+{.related}
+img1: assets/img/smith_1.jpg
+alt1: Photograph of essay author Joseph Vernon Smith. He is a Black man standing with his arms crossed looking at the camera. He wears a face mask and a Giant Eagle staff t-shirt that says proud to be your neighbor.
+text1: First person: It’s not easy being a Black man on the autism spectrum
+url1: /its-not-easy-being-a-black-man-on-the-autism-spectrum
+img2: assets/img/worship_3-alt.jpg
+alt2: Photograph of a catholic priest delivering a sermon. He's inside a church in front of his congregation. In the background, a woman interprets his sermon in American Sign Language along with him.
+text2: Despite ADA exemption, Pittsburgh-area houses of worship highlight accessibility efforts—and remaining shortfalls
+url2: /despite-ada-exemption-pittsburgh-houses-of-worship-highlight-accessibility-efforts-and-shortfalls
 {}
 
 {.transcript}

@@ -20,10 +20,10 @@ img1: assets/img/Dylan_sq.jpg
 alt1: Photograph of essay author Dylan Kapit. They are standing outside looking straight at the camera. They're wearing a transgender pride flag around their shoulders and a shirt that says I don't want to look or be cis.
 text1: First person: Academia’s narrow gates: People with disabilities should not be deterred from higher ed
 url1: /academias-narrow-gates-people-with-disabilities-should-not-be-deterred-from-higher-education
-img2: assets/img/worship_1.jpg
-alt2: Photograph of a catholic priest delivering a sermon. He's inside a church in front of his congregation. In the background, a woman interprets his sermon in American Sign Language along with him.
-text2: Despite ADA exemption, Pittsburgh-area houses of worship highlight accessibility efforts—and remaining shortfalls
-url2:/despite-ada-exemption-pittsburgh-houses-of-worship-highlight-accessibility-efforts-and-shortfalls
+img2: assets/img/sister_1.jpg
+alt2: Two Black women sit on a couch in a beauty salon. They're smiling and each holding a pair of shoes.
+text2: Sisters walk together through mental, physical disabilities
+url2: /podcast-episode-five-sisters-walk-together-through-mental-phyiscal-disabilities
 {}
 When I was in high school, I dealt with bullying because I did things differently than neurotypical students. I still feel the effects of insults. Even though I no longer hold grudges for past indiscretions, it still hurts like Hades. I am fearful of the future because of the political climate. I have lost friends over people’s ignorance. It hurts to lose friends and acquaintances, but in the long run, it is for the best.
 There are many positive things that I have accomplished as a Black man on the spectrum — things I thought were impossible to accomplish.
