@@ -48,6 +48,12 @@ Speaker: Alana Gibbs (02:43)
 Text: My vision is not completely restored but it's much better than it was. So optic neuritis is like if you got hit in the eye with a baseball, very painful. You feel pain when you move your eye. And when it started, I just had a little, tiny black spot in my eye that started to get larger. Your other eye then tries to adjust, which then causes headaches and things like that. So it was scary to me because I have loss of color in my left eye. So doing my job, it's difficult, because it's all about color. So it's a little frustrating.
 {}
 
+{.inline-img}
+img: assets/img/sisters_4.JPG
+alt: A Black woman stands in front of a row of nail polish colors.
+caption: Alana Gibbs at her hair and nail shop, Hair 2 Sole Beauty Studio in Bridgeville, PA. (Photo by Jay Manning/PublicSource)
+{}
+
 {.subhed}
 Text: Maintaining high-end manicure work, and questioning God
 {}
@@ -134,6 +140,12 @@ Text: Yeah.
 {.transcript}
 Speaker: Alana Gibbs (08:37)
 Text: "You're just a little sad."
+{}
+
+{.inline-img}
+img: assets/img/sisters_3.JPG
+alt: Two Black women sit on a couch in a beauty salon. They're smiling and each holding a pair of shoes.
+caption: Alana Gibbs (Left) and Darah Thompson (right) at Alana's hair and nail shop, Hair 2 Sole Beauty Studio in Bridgeville, PA.  (wearing shirts & shoes that they created, but I cannot remember who created the shirts and who created the shoes) (Photo by Jay Manning/PublicSource)
 {}
 
 {.subhed}
