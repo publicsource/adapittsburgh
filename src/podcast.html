@@ -3,7 +3,6 @@
   <head>
     <%= t.include("partials/_analytics.html") %>
     <!-- imports all header info -->
-    <%= t.include("partials/_head.html", grunt.data.json) %>
 
     <title>ADA at 30: Accessibility in Pittsburgh</title>
 
@@ -22,6 +21,8 @@
    <meta property="og:url" content="https://adapittsburgh.com/podcast">
    <meta property="og:image" content="https://adapittsburgh.com/assets/img/jsjpick_crawl_org.jpg">
    <meta property="og:description" content="“Let the shameful wall of exclusion come tumbling down.” As the Americans with Disabilities Act of 1990 was signed, President George H.W. Bush spoke those words. If you live long enough, you’ll develop a disability—if you don’t already have one. The 30-year-old act promises that despite that, you’ll easily cross streets, hold a job and live as independently as possible. How’s that working for us?">
+
+   <%= t.include("partials/_head.html", grunt.data.json) %>
   </head>
 
   <body>
