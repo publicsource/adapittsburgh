@@ -36,7 +36,7 @@ Img1: assets/img/smith_1.jpg
 alt1: Photograph of essay author Joseph Vernon Smith. He is a Black man standing with his arms crossed looking at the camera. He wears a face mask and a Giant Eagle staff t-shirt that says proud to be your neighbor.
 text1: First person: It’s not easy being a Black man on the autism spectrum
 url1:/its-not-easy-being-a-black-man-on-the-autism-spectrum
-Img2: assets/img/IMG_8141.JPG
+Img2: assets/img/IMG_8045.JPG
 alt2: Head-on photograph of the outside of the Andy Warhol Museum. In the windows are large blue and yellow prints of Andy Warhol’s cow prints. The entrance has both stairs and a ramp. In the foreground, someone skateboards down the sidewalk.
 text2: A Pittsburgh disability advocate shares her list of access wins and losses
 url2:/pittsburgh-disability-advocate-shares-list-of-access-wins-and-losses
