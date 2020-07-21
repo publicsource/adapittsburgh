@@ -92,6 +92,12 @@ Text: Areas for improvement
 
 <b>The T/ light rail system</b>
 
+{.inline-img}
+Img: assets/img/improve_5.jpg
+Alt: Overhead photograph of a T station.
+Caption: The Port Authority of Allegheny County's Dormont Junction station, which has been criticized for compliance issues with the Americans with Disabilities Act. (Photo by Jay Manning/PublicSource)
+{}
+
 <i>“</i><i>As a native Manhattanite, I already look at the T with some disdain, but from an accessibility standpoint, it’s a nightmare. Some stops are high-level ones, meaning that there’s a platform at door level and you can just roll on out at your stop. Other stations are street-level and you have to be able to climb up and down a steep set of steps, which is difficult for people with certain mobility impairments and strollers and shopping carts and impossible for wheelchair users.” —Grishman</i>
 
 Of the light rail system’s about 52 stops and stations, about 25 are ADA-compliant and 25 are not, said Adam Brandolph, spokesperson for the Port Authority of Allegheny County, in an interview. The system’s low-level stops are not ADA-compliant, as they require stairs at the front of the vehicle to reach the street safely.
