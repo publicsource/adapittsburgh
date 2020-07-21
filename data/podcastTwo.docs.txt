@@ -83,10 +83,10 @@ Speaker: JAY HORNACK (03:36)
 Text: I think that the first issue that they look at, sadly, I think is "How much is this going to cost me?" I see that sensitivity to cost being even greater these days where businesses are barely hanging on because of this pandemic and the need for them to close or restrict the number of people that are allowed into their establishments. I still think that's what they look to first.
 {}
 
-<img src="assets/img/fuku_1.png" alt=" A man stands on a sidewalk next to an accessible automatic door button at the bottom of a ramp."/>
+<img src="assets/img/fuku_1.jpg" alt=" A man stands on a sidewalk next to an accessible automatic door button at the bottom of a ramp."/>
 
 {.inline-img}
-Img: assets/img/fuku_2.png
+Img: assets/img/fuku_2.jpg
 Alt: Close up photograph of the same man pushing another accessible automatic door button, this time at the top of the ramp.
 Caption: When customers who use wheelchairs told Oakland restaurateur Ting Yen that a single step outside his restaurant stopped them from coming in, he regraded the sidewalk at Sushi Fuku. Many Pittsburgh businesses have one step at their doorways. The work cost him over $7,000. (Photos by Brianna McCall)
 {}

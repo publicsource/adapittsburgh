@@ -49,7 +49,7 @@ Text: Where are the Christian leaders with disabilities?
 {}
 
 {.vertical-inline-img}
-Img: assets/img/David_Hale_ADA30.png
+Img: assets/img/David_Hale_ADA30.jpg
 Alt: Photograph of a Black man in a wheelchair. He’s facing the camera in the middle of speaking.
 Caption: David Hale worships at a Christian church in Pittsburgh, where he says people with disabilities are welcome, but not necessarily in leadership roles. (Photo by Alex Collinger)
 Text: <span class="speaker-v">DAVID HALE (06:18):</span><br>I love people and I love stories. And I want to build community and I want to teach people. I want to use stories to enrich people's lives. That's my mission to create stories for my collection, and use them as material to enrich people's lives through storytelling. One of them is my personal story of being born with a spina bifida. My name is David Hale, and when I was four, my mother told me that there was a purpose for my life. And that really helped me to feel like there was something for me here in this world to do, and everything. I love doing percussion and drums, the bongo. And I like to take my drumsticks and make beats on different things like boxes, and do a lot of creative things with that. It's usually just that, I don't sing that well or anything.

@@ -391,7 +391,7 @@ Text: ADA coordinators are really important and unfortunately most of what they 
 {}
 
 {.inline-img}
-Img: assets/img/council.png
+Img: assets/img/council.jpg
 Alt: Screen capture of a eight people video chatting on Zoom. They’re each in their homes. They’re a variety of ages.
 Caption: The Allegheny County and City of Pittsburgh Disability Task Force met by Zoom for the first time in June and plans to continue online meetings as an accessibility measure.
 {}
@@ -481,7 +481,7 @@ Text: So we'll just share your cell phone number after this. Kidding.
 {}
 
 {.inline-img}
-Img: assets/img/josie.png
+Img: assets/img/josie.jpg
 Alt: Screen capture of a woman on video chat wearing a headset with microphone.
 Caption: <div id="center-me">Healthcare ethicist Josie Badger recording the podcast via Zoom. (Courtesy Photo)</div>
 {}
