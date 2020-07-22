@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_analytics.html") %>
+    <!-- BEGIN TWITTER SUMMARY CARD -->
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:title" content="Disability justice is not just ramps and curb cuts; it spans health, education, the environment and more. | ADA at 30: Accessibility in Pittsburgh">
+   <meta name="twitter:site" content="@PublicSourcePA">
+   <meta name="twitter:url" content="https://adapittsburgh.com/disability-justice-is-not-just-ramps-and-curb-cuts-it-spans-health-education-environment-more">
+   <meta name="twitter:image" content="https://adapittsburgh.com/assets/img/John_6641.jpg">
+   <meta name="twitter:description" content="I want to live in a region, state and country where you don’t have to sue for basic rights. And, for me, it’s not just a political pursuit — it’s personal.">
+
+   <!-- Social sharing meta -->
+   <meta property="og:type" content="article">
+   <meta property="og:title" content="Disability justice is not just ramps and curb cuts; it spans health, education, the environment and more.">
+   <meta property="og:site_name" content="Disability justice is not just ramps and curb cuts; it spans health, education, the environment and more. | ADA at 30: Accessibility in Pittsburgh">
+   <meta property="og:url" content="https://adapittsburgh.com/disability-justice-is-not-just-ramps-and-curb-cuts-it-spans-health-education-environment-more">
+   <meta property="og:image" content="https://adapittsburgh.com/assets/img/John_6641.jpg">
+   <meta property="og:description" content="I want to live in a region, state and country where you don’t have to sue for basic rights. And, for me, it’s not just a political pursuit — it’s personal.">
+    <!-- imports all header info -->
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <title>Disability justice is not just ramps and curb cuts; it spans health, education, the environment and more. | ADA at 30: Accessibility in Pittsburgh</title>
+
+  </head>
+
+  <body>
+    <!-- imports global header -->
+    <%= t.include("partials/_main-nav.html") %>
+
+    <!-- STORY INFO -->
+    <div class="container" id="story-intro" style="overflow-x: hidden;">
+      <div class="row">
+        <div id="story-date">
+            July 26, 2020
+        </div>
+      </div>
+      <div class="row">
+        <div class="ten columns">
+          <h1 id="story-headline">Disability justice is not just ramps and curb cuts; it spans health, education, the environment and more.</h1>
+        </div>
+      </div>
+      <div class="row">
+          <div id="story-byline">First-person essay by Jessica Benham</div>
+      </div>
+    </div>
+
+    <!-- LEAD IMAGE -->
+    <div class="ui-full-width" id="lead-image">
+      <img src="/assets/img/IMG_7112.jpg"
+      alt="Photograph of essay author Jessica Benham standing outside with Downtown Pittsburgh in the background. She a white woman wearing a yellow mask and a bright pink shirt.">
+      <div id="lead-caption">
+        Democratic candidate Jessica Benham at her home near Pittsburgh's Southside Slopes (Photo by Jay Manning/PublicSource)
+      </div>
+    </div>
+
+    <%= t.include("partials/_story.html", {'story': archieml.benham}) %>
+
+    <!-- Contact form -->
+    <section role="contact form" style="margin-top: 2rem;">
+      <div class="inline">
+        <%= t.include("partials/_preFooter.html") %>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <%= t.include("partials/_footer.html") %>
+
+    <script src="app.js" async></script>
+    <%= t.include("partials/_analytics.html") %>
+    <%= t.include("partials/_userway.html") %>
+  </body>
+</html>
