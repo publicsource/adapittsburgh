@@ -44,7 +44,7 @@ People with disabilities, especially those who are also Black or brown, are amon
 {.inline-img}
 Img: assets/img/IMG_7156.jpg
 Alt: Photograph of essay author Jessica Benham standing outside. She a white woman wearing a yellow mask and a bright pink shirt.
-Caption: Democratic candidate Jessica Benham at her home near Pittsburgh's Southside Slopes (Photo by Jay Manning/PublicSource)
+Caption: Jessica Benham, pictured at her home near Pittsburgh's Southside Slopes, writes: "Before another 30 years of my life passes, I want to see justice for my people. I’m determined to be part of making it happen." (Photo by Jay Manning/PublicSource)
 {}
 
 {.subhed}
