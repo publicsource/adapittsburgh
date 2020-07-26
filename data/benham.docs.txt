@@ -59,6 +59,17 @@ Text: Health justice is disability justice
 
 As a person with a pre-existing condition, I worry that I will lose my health insurance or that my insurance won’t cover what I need. State legislators should protect and expand healthcare coverage and fully fund our Medicaid waiver programs so that people with disabilities can receive the services they are entitled to under the Olmstead Supreme Court decision. In Pennsylvania alone, <a href="https://pawaitinglistcampaign.org/" target="_blank" aria-label="more than 13,000 people (opens in new tab)">more than 13,000 people</a> with disabilities are on waiting lists to receive services. State legislators should view substance use disorder as an issue of public health and work to fund programs that support people with public or no insurance. When politicians suggest that COVID-19 is not that bad because it ‘only’ kills disabled people and older adults, they devalue the lives and contributions of vulnerable members of our society. Health justice under COVID-19 means comprehensive testing, adequate personal protective equipment [PPE] and no rationing of treatment.
 
+{.related}
+Img1: assets/img/John_6641-alt.jpg
+alt1: Photograph of essay author John Tague, a white man in sitting in a power wheelchair. He's on the sidewalk facing the camera, wearing a purple sweater and wide hat.
+text1: The future of accessible transportation depends on passionate advocacy for the civil rights of people with disabilities
+url1:/future-of-accessible-transportation-depends-on-advocacy-for-civil-rights-of-people-with-disabilities
+Img2: assets/img/Fran_6605_new-alt.jpg
+alt2: Photograph of essay author Fran Flaherty, a Filipino woman wearing sunglasses and a black jumpsuit. She's lying in the grass with small yellow wildflowers around her.
+text2: First person: We are experiencing a cultural reset, and we must include Deaf and Disability culture in our discussions of change
+url2:/we-are-experiencing-a-cultural-reset-and-we-must-include-deaf-and-disability-culture-in-discussions-of-change
+{}
+
 {.subhed}
 Text: Reproductive justice is disability justice
 {}
