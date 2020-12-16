@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_analytics.html") %>
+  <!-- BEGIN TWITTER SUMMARY CARD -->
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:title" content="HEADLINE HERE | ADA at 30: Accessibility in Pittsburgh">
+   <meta name="twitter:site" content="@PublicSourcePA">
+   <meta name="twitter:url" content="https://adapittsburgh.com/obit-david-hale">
+   <meta name="twitter:image" content="https://adapittsburgh.com/assets/img/hale_podcast_studio.jpg">
+   <meta name="twitter:description" content="">
+
+   <!-- Social sharing meta -->
+   <meta property="og:type" content="article">
+   <meta property="og:title" content="When will the Americans with Disabilities Act evolve to the digital age?">
+   <meta property="og:site_name" content="ADA at 30: Accessibility in Pittsburgh">
+   <meta property="og:url" content="https://adapittsburgh.com/obit-david-hale">
+   <meta property="og:image" content="https://adapittsburgh.com/assets/img/hale_podcast_studio.jpg">
+   <meta property="og:description" content="">
+    <!-- imports all header info -->
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <title>HEADLINE HERE | ADA at 30: Accessibility in Pittsburgh</title>
+
+  </head>
+
+  <body>
+    <!-- imports global header -->
+    <%= t.include("partials/_main-nav.html") %>
+
+    <!-- STORY INFO -->
+    <div class="container" id="story-intro" style="overflow-x: hidden;">
+      <div class="row">
+        <div id="story-date">
+            December 16, 2020
+        </div>
+      </div>
+      <div class="row">
+        <div class="ten columns">
+          <h1 id="story-headline">HEADLINE HERE</h1>
+        </div>
+      </div>
+      <div class="row">
+          <div id="story-byline">First-person essay by Jennifer Szweda Jordan</div>
+      </div>
+    </div>
+
+    <!-- LEAD IMAGE -->
+    <div class="ui-full-width" id="lead-image">
+      <img src="/assets/img/hale_podcast_studio.jpg"
+      alt="Photograph of David Hale, a Black man wearing a fedora. He's sitting behind a microphone in a podcast studio.">
+      <div id="lead-caption">
+        David Hale in the Point Park University podcast studio. (Photo by Alex Collinger)
+      </div>
+    </div>
+
+    <%= t.include("partials/_story.html", {'story': archieml.davidHale}) %>
+
+    <!-- Contact form -->
+    <section role="contact form" style="margin-top: 2rem;">
+      <div class="inline">
+        <%= t.include("partials/_preFooter.html") %>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <%= t.include("partials/_footer.html") %>
+
+    <script src="app.js" async></script>
+    <%= t.include("partials/_analytics.html") %>
+    <%= t.include("partials/_userway.html") %>
+  </body>
+</html>
